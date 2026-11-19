@@ -1,0 +1,1396 @@
+[
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "Shred A Billion Beginner Guide (2026) – How to Play & Tips",
+    "description": "Master the basics with our Shred A Billion beginner guide on Roblox. Learn the core gameplay loop, first 15-minute progression steps, controls table, and tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Beginner Guide: Step-by-Step Starter Walkthrough",
+      "lead": "This Shred A Billion beginner guide starts with one goal: use your hand vac to collect enough bills for your first trip to the shredder. Make that first deposit before worrying about which vacuum to work toward. Shredding bundles earns coins, and shredding more cash opens up better vacuums. Once you start digging deeper, look for the golden key that opens the gold vault, and keep in mind that monsters appear at night. The action table and checklist below show what to do first and which milestones to aim for next."
+    },
+    "sections": [
+      {
+        "id": "collect-bills-shred-them-and-earn-your-first-coins",
+        "heading": "Collect Bills, Shred Them, and Earn Your First Coins",
+        "intro": "On your first vault visit, pick up a small batch of bills and take it to the shredder. The hand vac collects cash, but it doesn’t pay out coins. That happens when you feed a bundle into the shredder, so use your first coin payout—not the amount you’ve picked up—as your checkpoint.",
+        "paragraphs": [
+          "Task\tTool or station\tResult\nCollect vault bills\tStarter hand vac\tCash to take to the shredder\nShred a bundle\tShredder\tCoins from the bundle\nShred more cash\tShredder\tProgress toward better vacuums"
+        ],
+        "table": {
+          "caption": "Shred A Billion Beginner Guide at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Collect Bills, Shred Them, and Earn Your First Coins",
+              "On your first vault visit, pick up a small batch of bills and take it to the shredder."
+            ],
+            [
+              "Work Toward a Backpack Vac Before Later Equipment",
+              "Make a backpack vac your first equipment goal in Shred A Billion."
+            ],
+            [
+              "Keep Early Vault Trips Short as Night Approaches",
+              "The official game description warns that monsters appear at night, so treat a late vault trip as a reason to be cautious rather than a signal that a…"
+            ],
+            [
+              "Dig for the Golden Key to Open the Gold Vault",
+              "After your first few cash runs, make your next trip a search for the golden key."
+            ]
+          ]
+        },
+        "bullets": [
+          "Step 1: Enter the bank vault with your starter hand vac and vacuum up the bills you find. For this first run, focus on getting a batch ready to shred rather than clearing every bill you see.",
+          "Step 2: Take the collected cash to the shredder and feed in your first bundle. If you’ve only vacuumed up bills so far, you haven’t earned coins from that batch yet.",
+          "Step 3: Head back for another batch and bring it to the shredder. Keep processing the cash you collect: it’s the cash you shred, not the cash you leave unprocessed, that moves you toward better equipment."
+        ]
+      },
+      {
+        "id": "work-toward-a-backpack-vac-before-later-equipment",
+        "heading": "Work Toward a Backpack Vac Before Later Equipment",
+        "intro": "Make a backpack vac your first equipment goal in Shred A Billion. You start with the hand vac, and access to better vacuums depends on how much cash you’ve shredded. If a backpack vac isn’t available yet, keep using the hand vac and check what’s available after you’ve shredded more cash.",
+        "paragraphs": [
+          "The Mega Vac and Black Hole are later options. Use the backpack vac as a milestone, not a shopping list: aiming for one doesn’t mean you need to buy every backpack model before looking at later equipment."
+        ],
+        "steps": [
+          {
+            "heading": "Step 1",
+            "description": "Enter the bank vault with your starter hand vac and vacuum up the bills you find. For this first run, focus on getting a batch ready to shred rather than clearing every bill you see."
+          },
+          {
+            "heading": "Step 2",
+            "description": "Take the collected cash to the shredder and feed in your first bundle. If you’ve only vacuumed up bills so far, you haven’t earned coins from that batch yet."
+          },
+          {
+            "heading": "Step 3",
+            "description": "Head back for another batch and bring it to the shredder. Keep processing the cash you collect: it’s the cash you shred, not the cash you leave unprocessed, that moves you toward better equipment."
+          }
+        ]
+      },
+      {
+        "id": "keep-early-vault-trips-short-as-night-approaches",
+        "heading": "Keep Early Vault Trips Short as Night Approaches",
+        "intro": "The official game description warns that monsters appear at night, so treat a late vault trip as a reason to be cautious rather than a signal that a particular route is safe. On your first visit, focus on learning the way in and back instead of pushing farther into the vault. As night approaches, finish the trip you are already on rather than beginning a deeper exploration. Once you know the route, you can choose a later trip with the specific goal of digging farther, while still keeping the nighttime warning in mind. No monster spawn schedule or guaranteed safe area is established, so do not rely on a precise cutoff or assume that a short trip removes the risk.",
+        "paragraphs": [
+          "The official game description warns that monsters appear at night, so treat a late vault trip as a reason to be cautious rather than a signal that a particular route is safe. On your first visit, focus on learning the way in and back instead of pushing farther into the vault. As night approaches, finish the trip you are already on rather than beginning a deeper exploration. Once you know the route, you can choose a later trip with the specific goal of digging farther, while still keeping the nighttime warning in mind. No monster spawn schedule or guaranteed safe area is established, so do not rely on a precise cutoff or assume that a short trip removes the risk."
+        ]
+      },
+      {
+        "id": "dig-for-the-golden-key-to-open-the-gold-vault",
+        "heading": "Dig for the Golden Key to Open the Gold Vault",
+        "intro": "After your first few cash runs, make your next trip a search for the golden key. Dig farther into the bank vault than you did on your starter trips. Finding the key gets you into the gold vault, but opening it is the start of the heist, not the finish.",
+        "paragraphs": [
+          "Once the gold vault is open, load the gold onto the carts and ride out to the hideout. On your first attempt, focus on learning the cart route and making it to the hideout. After the run, check the fastest-heist leaderboard to see how your completion time compares. If you try again for a faster run, look for spots where you hesitated while loading the gold or riding to the hideout."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I upgrade first as a beginner in Shred A Billion?",
+        "answer": "Treat a backpack vac as your first equipment goal after the hand vac. That gives you a nearer milestone than aiming for the Mega Vac or Black Hole right away. It’s a starter recommendation, not a claim that every backpack model is required or that one specific purchase is always best."
+      },
+      {
+        "question": "How do you unlock the next area or stage in Shred A Billion?",
+        "answer": "The golden key is what opens the gold vault. Keep digging to look for it rather than treating your next vacuum upgrade as the unlock itself. Once the vault is open, the objective shifts to hauling gold to the hideout, where your heist time can be compared on the leaderboard."
+      },
+      {
+        "question": "Can you play Shred A Billion solo or is co-op better?",
+        "answer": "You can play with up to three friends, so you don’t need to plan around a larger group. If you already have friends who want to try the heist, that’s a reason to start together, but the group size alone doesn’t tell you whether co-op is faster or whether every objective can be completed solo."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "co-op",
+      "drone",
+      "demo",
+      "bucket"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "co-op",
+    "pageType": "guide",
+    "navLabel": "Co OP",
+    "title": "Shred A Billion Co OP Explained (2026) – Mechanics",
+    "description": "Co OP in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Co OP Explained: Mechanics, Tips & Mistakes",
+      "lead": "In Shred A Billion co op, you can play with up to three friends in the Roblox experience. That's four players counting yourself, though the game listing doesn't describe a separate lobby or invite menu. Before you start digging, check that everyone is in the same server and agree on whether you're practicing cash runs or aiming for the gold vault. The golden key opens the vault, and the gold carts take the heist to the hideout. The table and steps below cover group setup, vault objectives, and what to do when night approaches."
+    },
+    "sections": [
+      {
+        "id": "check-that-all-four-players-are-in-the-same-server",
+        "heading": "Check That All Four Players Are in the Same Server",
+        "intro": "Group size: Bring up to three friends, for a group of four including yourself.",
+        "paragraphs": [
+          "Server capacity: Four is the advertised group size, not the server limit. The game description doesn't give a total server capacity.",
+          "Ready check: Count the friends you planned to bring, not everyone you see in the server. Seeing other players doesn't tell you whether your friends joined the same session."
+        ],
+        "table": {
+          "caption": "Shred A Billion Co OP at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Check That All Four Players Are in the Same Server",
+              "Group size: Bring up to three friends, for a group of four including yourself."
+            ],
+            [
+              "Use a Short Cash Run to Get Everyone Oriented",
+              "For your first Shred A Billion co-op run, try using the shredder as your starting and ending point."
+            ],
+            [
+              "Find the Golden Key Before Planning a Timed Heist",
+              "On your first Shred A Billion co-op heist, aim to reach the hideout rather than set a fast time."
+            ],
+            [
+              "Agree on a Regroup Plan Before Nightfall",
+              "Monsters appear at night in Shred A Billion."
+            ]
+          ]
+        },
+        "bullets": [
+          "Open Shred A Billion on Roblox and pick one friend to enter first. That gives everyone else the same person to join.",
+          "Use whichever Roblox join options are available to your group. If someone doesn't see a way to join the first player, check whether another friend in the session is joinable.",
+          "Meet at an easy-to-describe spot before entering the vault. Have each friend confirm they can see the rest of the group in-game. If someone's missing, wait there while they check which session they joined."
+        ]
+      },
+      {
+        "id": "use-a-short-cash-run-to-get-everyone-oriented",
+        "heading": "Use a Short Cash Run to Get Everyone Oriented",
+        "intro": "For your first Shred A Billion co-op run, try using the shredder as your starting and ending point. If one friend already knows the way, have them lead the group to a nearby patch of bills. That gives a first-time player a chance to see the entire route before anyone digs farther into the vault.",
+        "paragraphs": [
+          "For your first Shred A Billion co-op run, try using the shredder as your starting and ending point. If one friend already knows the way, have them lead the group to a nearby patch of bills. That gives a first-time player a chance to see the entire route before anyone digs farther into the vault."
+        ],
+        "bullets": [
+          "Vacuum up a small batch of bills. For this practice run, stop after collecting enough cash to try the shredder rather than looking for the biggest haul. Call out when you're heading back so a friend who is still collecting knows to follow.",
+          "Return along the same route and feed the bills into the shredder to earn coins. Let the newest player try it with their own batch instead of just watching someone else do it.",
+          "Use the coins you earn to work up from the starting hand vac toward better equipment, including backpack vacs, the Mega Vac, and the Black Hole.",
+          "Before digging farther in, ask the newest player to lead the next trip back to the shredder. If they miss a turn, point it out while the route is still short."
+        ]
+      },
+      {
+        "id": "find-the-golden-key-before-planning-a-timed-heist",
+        "heading": "Find the Golden Key Before Planning a Timed Heist",
+        "intro": "On your first Shred A Billion co-op heist, aim to reach the hideout rather than set a fast time. Follow the objectives in order so everyone sees what to do after the key turns up and where to go once the gold is loaded.",
+        "paragraphs": [
+          "Use two callouts in voice or chat: “Key found” and “Ready for the carts.” On the first call, have the finder say where they are so friends who are still digging know to head toward the vault. Before the ride, ask everyone to confirm they’re ready rather than assuming the group is set as soon as the gold is loaded.",
+          "The fastest-heist leaderboard compares completion times. Once everyone knows the route, pick one delay from the practice run to work on. For example, if someone kept digging after the key was found, have the finder include their location in the same callout on the next attempt."
+        ],
+        "bullets": [
+          "Dig deeper to look for the golden key.",
+          "Use the key to unlock the gold vault before moving on to the gold.",
+          "Load the gold from the vault onto the carts.",
+          "Ride the carts to the hideout to finish the heist."
+        ]
+      },
+      {
+        "id": "agree-on-a-regroup-plan-before-nightfall",
+        "heading": "Agree on a Regroup Plan Before Nightfall",
+        "intro": "Monsters appear at night in Shred A Billion. Before heading deeper, pick a landmark everyone has already passed and name it as your fallback meeting point. Then ask whether everyone wants to keep going. If the whole group is ready, head in together. If someone wants to turn back, meet at the landmark before deciding whether to make another trip.",
+        "paragraphs": [
+          "Say one friend wants to dig a little farther while another is ready to turn back. Instead of letting each player guess what the others are doing, call out the agreed spot: \"Let's meet at the last turn before we go any deeper.\" Ask everyone to acknowledge the call, then wait until the group is back together before anyone heads off again.",
+          "Choose the spot because it's easy to recognize, not because you expect it to protect you. A landmark everyone can find gives the group a clear destination without anyone having to backtrack to look for a missing teammate."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many friends can you play with in Shred A Billion?",
+        "answer": "You can bring up to three friends, so a group of four counts you as one of the players. For example, if you're organizing the run and already have two friends joining you, there's room for one more friend within the advertised group size."
+      },
+      {
+        "question": "Is co-op worth it in Shred A Billion?",
+        "answer": "It's a good fit if your group wants a timed challenge: the gold heist ends with a cart ride to the hideout, and the leaderboard compares completion times. For a casual session, you can make reaching the hideout your goal without worrying about where the run ranks."
+      },
+      {
+        "question": "What's a good co-op strategy for a first run in Shred A Billion?",
+        "answer": "Pick one objective before you start. If you're going for gold, ask whoever finds the golden key to call it out so everyone knows it's time to head for the gold vault. If night arrives while you're still digging, pause and decide together whether to keep looking, since that's when monsters appear."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "demo",
+      "beginner-guide",
+      "multiplayer",
+      "drone"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "demo",
+    "pageType": "guide",
+    "navLabel": "Demo",
+    "title": "Shred A Billion Demo (2026) – Tips & Strategy – Roblox Guide",
+    "description": "Get more out of demo in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Includes full tables and tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Demo: Strategy, Key Mechanics & What to Avoid",
+      "lead": "Shred A Billion demo searches can refer to different versions: the supplied official listing is for a Roblox experience, while a separate search result describes a Steam demo. The Roblox listing describes collecting bank cash with vacuums, shredding it for coins, and progressing toward a gold-vault heist; it does not establish that this Roblox experience is a demo or explain a demo-to-full-game transition. To identify the version you mean, check the platform and experience page before following version-specific instructions. The sections below summarize the confirmed Roblox mechanics and show what the available information does and does not establish."
+    },
+    "sections": [
+      {
+        "id": "what-the-roblox-listing-says-about-the-heist",
+        "heading": "What the Roblox Listing Says About the Heist",
+        "intro": "The Roblox listing describes a cash-to-coins progression that leads toward a gold-vault heist. Players use a vacuum to collect bank cash, feed the bundles into a shredder, and receive coins. The description connects shredding enough cash with upgrading equipment, then encourages players to keep digging; it does not give exact upgrade prices or digging requirements.",
+        "paragraphs": [
+          "Digging also advances the stated vault objective: go deep enough to find a golden key, which opens the gold vault. The listing does not explain where the key appears, how much digging is required, or whether other conditions must be met. Treat the key as the described route to the vault, not as proof that this is a separate demo feature.",
+          "The practical sequence in the Roblox description is therefore to collect cash, shred it for coins, use the stated progression to improve equipment, and dig toward the key. Check the in-game prompts for current costs and requirements, since the listing does not provide those details. This describes the Roblox experience and does not establish that the separately described Steam demo shares its mechanics or progress."
+        ],
+        "table": {
+          "caption": "Shred A Billion Demo at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "What the Roblox Listing Says About the Heist",
+              "The Roblox listing describes a cash-to-coins progression that leads toward a gold-vault heist."
+            ],
+            [
+              "What the Listing Says About Night and the Heist Finish",
+              "Monsters appear at night in the Roblox experience, so avoid staying out late."
+            ],
+            [
+              "How to Check Whether Instructions Match Your Version",
+              "For Roblox, look for the Shred A Billion experience created by Blue Chip studios, with “MR Krabs” in the listing title."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "what-the-listing-says-about-night-and-the-heist-finish",
+        "heading": "What the Listing Says About Night and the Heist Finish",
+        "intro": "Monsters appear at night in the Roblox experience, so avoid staying out late. The listing does not give an exact spawn time or explain how to deal with the monsters if you encounter them.",
+        "paragraphs": [
+          "Opening the gold vault isn't the last step. Once it's open, load the gold onto the carts and ride them to the hideout. Then check the fastest-heist leaderboard to see how your completion time compares with other runs. The listing doesn't specify what starts or stops the timer."
+        ]
+      },
+      {
+        "id": "how-to-check-whether-instructions-match-your-version",
+        "heading": "How to Check Whether Instructions Match Your Version",
+        "intro": "For Roblox, look for the Shred A Billion experience created by Blue Chip studios, with “MR Krabs” in the listing title. Match both the title and the creator before following a Roblox walkthrough. If a video or guide leaves out the platform, check which game page it launches from.",
+        "paragraphs": [
+          "If you’re looking for a Steam demo, open the Steam store page itself and look for a demo download option. Compare the developer listed there with the one named in the instructions you’re following. Use controls and upgrade advice written for the version you actually launch.",
+          "It’s unclear whether progress from a Steam demo would carry over to a full release. If keeping your progress matters, look for an explicit save-transfer statement on the Steam store page or in a developer announcement."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does the Roblox version work?",
+        "answer": "The official Roblox description presents a loop of collecting cash from a bank vault, feeding it into a shredder to earn coins, and digging for a golden key that opens a gold vault. It also names later vacuum equipment and describes moving gold by cart to a hideout."
+      },
+      {
+        "question": "What equipment can players work toward?",
+        "answer": "The listing names a hand vac as the starting equipment, followed by backpack vacs, the Mega Vac, and the Black Hole. It says shredding cash lets players work their way up, but gives no prices or exact amounts required for each upgrade."
+      },
+      {
+        "question": "Does Roblox progress carry over to the Steam demo?",
+        "answer": "The available information does not establish a connection between Roblox progress and the separately described Steam demo. They are presented on different platforms, so check the relevant game's own listing or in-game account information before assuming that saves, upgrades, or unlocks transfer."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "multiplayer",
+      "co-op",
+      "tool",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "multiplayer",
+    "pageType": "guide",
+    "navLabel": "Multiplayer",
+    "title": "Shred A Billion Multiplayer Guide (2026) – How It Works",
+    "description": "Shred A Billion Multiplayer explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Multiplayer Guide: How It Works & Best Tips",
+      "lead": "Shred A Billion multiplayer on Roblox lets you play with up to three friends, for four people including you. That figure describes how many friends you can bring, not how many players the server can hold. Before starting a run, pick a meeting spot and make sure everyone can see one another in the game. For a first session, choose a short cash run; save the gold-vault route for a group that wants to compare heist times. The table below separates group size from server capacity, and the steps help you choose a goal and get everyone started."
+    },
+    "sections": [
+      {
+        "id": "bring-up-to-three-friends-and-meet-in-game",
+        "heading": "Bring Up to Three Friends and Meet In-Game",
+        "intro": "Have everyone open Shred A Billion on Roblox and check that Blue Chip studios is listed as the creator. The title includes “MR Krabs,” which gives your friends another detail to look for when they search for the experience.",
+        "paragraphs": [
+          "Before joining, pick one spot everyone can recognize and describe it using a landmark. Once you get there, have each friend say which players they can see. If you brought three friends, each person should be able to account for the other three before the group sets off.",
+          "If someone says they’ve arrived but the rest of the group can’t see them, have them confirm the landmark first. If everyone is at the agreed spot and still can’t see one another, check whether you’re in the same server before starting."
+        ],
+        "table": {
+          "caption": "Shred A Billion Multiplayer at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Bring Up to Three Friends and Meet In-Game",
+              "Have everyone open Shred A Billion on Roblox and check that Blue Chip studios is listed as the creator."
+            ],
+            [
+              "Use the Shredder as the Finish Line for a First Group Run",
+              "In Shred A Billion, use your vacuum to collect bills from the bank vault, then feed the cash into the shredder to earn coins."
+            ],
+            [
+              "Decide Whether to Continue Before Nightfall",
+              "Monsters appear at night in Shred A Billion."
+            ],
+            [
+              "Use the Gold Heist Leaderboard to Compare Finish Times",
+              "Dig for the golden key to open the gold vault."
+            ]
+          ]
+        },
+        "bullets": [
+          "Friends you can bring — Up to three.",
+          "Your group at full size — Four players, including you.",
+          "Total server capacity — The Roblox listing doesn’t give a player limit for the whole server."
+        ]
+      },
+      {
+        "id": "use-the-shredder-as-the-finish-line-for-a-first-group-run",
+        "heading": "Use the Shredder as the Finish Line for a First Group Run",
+        "intro": "In Shred A Billion, use your vacuum to collect bills from the bank vault, then feed the cash into the shredder to earn coins. You start with a hand vac and can work your way up to backpack vacs, the Mega Vac, and the Black Hole. Friends at different points in that progression can use the same route without trying to bring back the same amount of cash.",
+        "paragraphs": [
+          "In Shred A Billion, use your vacuum to collect bills from the bank vault, then feed the cash into the shredder to earn coins. You start with a hand vac and can work your way up to backpack vacs, the Mega Vac, and the Black Hole. Friends at different points in that progression can use the same route without trying to bring back the same amount of cash."
+        ],
+        "bullets": [
+          "Pick a turnaround point before you leave. Choose a spot in the vault everyone can recognize. The goal is to collect bills on the way there and back, not to clear every bill you see.",
+          "Set the turnaround point with the newest player in mind. If one friend has a hand vac and another has a backpack vac, let each collect at their own pace. Use the agreed spot to decide when to head back, not the size of anyone's haul.",
+          "Wait at the shredder after you drop off your cash. If you get there first, give the others time to return and shred theirs before you head out again. That way, nobody has to guess whether the group has already started another trip."
+        ]
+      },
+      {
+        "id": "decide-whether-to-continue-before-nightfall",
+        "heading": "Decide Whether to Continue Before Nightfall",
+        "intro": "Monsters appear at night in Shred A Billion. Before anyone heads off for another trip, ask for a clear call from the group: are you wrapping up the current run together, or does everyone want to keep going after dark?",
+        "paragraphs": [
+          "If everyone is already at the agreed stopping point, you've got a natural place to end the run. If the group wants to continue, agree on what you'll do next and where that trip will end before anyone leaves.",
+          "If players are still spread out, have each person say whether they're on their way back or still finishing up. Hold off on starting another trip while someone is trying to rejoin the group. If a friend is ready to call it a night, finish the current run together rather than assuming they'll follow you into the next one."
+        ]
+      },
+      {
+        "id": "use-the-gold-heist-leaderboard-to-compare-finish-times",
+        "heading": "Use the Gold Heist Leaderboard to Compare Finish Times",
+        "intro": "Dig for the golden key to open the gold vault. Once the vault is open, load the gold onto carts and ride them to the hideout. The fastest-heist leaderboard compares completion times, so your group can learn the route on its first trip and use the result as a benchmark for a later attempt.",
+        "paragraphs": [
+          "After reaching the hideout, have each friend check what result they can see on the leaderboard. If you record a benchmark, note the name shown next to the time so you can find the same entry when you compare results later."
+        ],
+        "bullets": [
+          "If anyone is new to the gold heist, aim for a first completion. Pause at the vault so everyone knows where to load the gold, then make sure each friend reaches the hideout before calling the practice run done.",
+          "If everyone knows the route, agree on one change to try before the next attempt. For example, if your group hesitated at the carts, decide who will call out when the gold is loaded and everyone is ready to ride. Check the displayed time after the run to see whether you beat your benchmark."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many friends can you play with in Shred A Billion on Roblox?",
+        "answer": "You can play with three friends, making four people when you include yourself. If four friends are already planning to join you, that would make five people, one more than the advertised group size. The listing describes how many friends you can bring, not the total number of players a server can hold."
+      },
+      {
+        "question": "Is multiplayer worth it in Shred A Billion?",
+        "answer": "It's a good fit if your friends want a goal they can repeat and compare. Start by finishing the gold delivery to the hideout, then use the fastest-heist leaderboard as a benchmark for another attempt. Play together for the shared challenge rather than assuming that adding a friend will improve your time."
+      },
+      {
+        "question": "What is a good multiplayer strategy when friends have different vacuums?",
+        "answer": "Pick an objective everyone can complete with the equipment they already have. A friend who still has the starting hand vac can collect bills and earn coins at the shredder without waiting for a backpack vac. For that first outing, judge success by whether everyone finishes the trip, not whether everyone brings back the same amount of cash."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "tool",
+      "demo",
+      "upgrade",
+      "co-op"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "tool",
+    "pageType": "guide",
+    "navLabel": "Tool",
+    "title": "Shred A Billion Tools Explained (2026) – Mechanics",
+    "description": "Tool in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Tools Explained: Mechanics, Tips & Mistakes",
+      "lead": "Shred A Billion tools on Roblox start with a hand vac and progress to backpack vacs, the Mega Vac, and the Black Hole. You start with the hand vac, and later equipment becomes available as you shred more cash. Use your vacuum to pick up bills in the bank vault and bring the haul to the shredder. Shredding a bundle earns coins, so count a trip as complete once you've fed in the cash you collected. The table and steps below show which tools are named, how to finish a cash run, and what to check before planning your next upgrade."
+    },
+    "sections": [
+      {
+        "id": "the-hand-vac-comes-first-with-three-later-equipment-names",
+        "heading": "The Hand Vac Comes First, With Three Later Equipment Names",
+        "intro": "If another player mentions a backpack vac, ask which one they mean. Backpack vacs are a group of tools in Shred A Billion, while the Mega Vac and the Black Hole each have their own name.",
+        "paragraphs": [
+          "If another player mentions a backpack vac, ask which one they mean. Backpack vacs are a group of tools in Shred A Billion, while the Mega Vac and the Black Hole each have their own name."
+        ],
+        "table": {
+          "caption": "Shred A Billion Tools at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "The Hand Vac Comes First, With Three Later Equipment Names",
+              "If another player mentions a backpack vac, ask which one they mean."
+            ],
+            [
+              "Use Your Vacuum to Collect Bills and Earn Coins at the Shredder",
+              "On your first trip, use the hand vac in the bank vault and check your coin total before feeding the haul into the shredder."
+            ],
+            [
+              "Shred More Cash to Work Toward Later Tools",
+              "Later tools in Shred A Billion are tied to how much cash you've shredded."
+            ],
+            [
+              "Match the Tool List to Blue Chip Studios' Roblox Experience",
+              "Before using a tool list or upgrade tip, check that it describes the same Roblox experience."
+            ]
+          ]
+        },
+        "bullets": [
+          "Hand vac — The tool you start with.",
+          "Backpack vacs — A group of vacuums available later in the progression.",
+          "Mega Vac — An individually named vacuum available later in the progression.",
+          "Black Hole — An individually named tool available later in the progression."
+        ]
+      },
+      {
+        "id": "use-your-vacuum-to-collect-bills-and-earn-coins-at-the-shredder",
+        "heading": "Use Your Vacuum to Collect Bills and Earn Coins at the Shredder",
+        "intro": "On your first trip, use the hand vac in the bank vault and check your coin total before feeding the haul into the shredder. Comparing your total before and after shredding gives you a clear way to confirm the payout.",
+        "paragraphs": [
+          "On your first trip, use the hand vac in the bank vault and check your coin total before feeding the haul into the shredder. Comparing your total before and after shredding gives you a clear way to confirm the payout."
+        ],
+        "steps": [
+          {
+            "heading": "Hand vac",
+            "description": "The tool you start with."
+          },
+          {
+            "heading": "Backpack vacs",
+            "description": "A group of vacuums available later in the progression."
+          },
+          {
+            "heading": "Mega Vac",
+            "description": "An individually named vacuum available later in the progression."
+          },
+          {
+            "heading": "Black Hole",
+            "description": "An individually named tool available later in the progression."
+          }
+        ],
+        "bullets": [
+          "Collect bills in the bank vault. Use the vacuum on the cash you find. Once you've picked up a haul, head to the shredder with it.",
+          "Feed the collected cash into the shredder. Each bundle you shred earns coins. Check your coin total after feeding in the haul. If the total hasn't changed, check whether any of the cash still needs to go into the shredder.",
+          "Return to the vault for more bills once you've processed your haul. Each trip adds to the amount of cash you've shredded, which is what moves you toward later equipment."
+        ]
+      },
+      {
+        "id": "shred-more-cash-to-work-toward-later-tools",
+        "heading": "Shred More Cash to Work Toward Later Tools",
+        "intro": "Later tools in Shred A Billion are tied to how much cash you've shredded. When you're deciding whether an upgrade is within reach, distinguish between the bills you've already shredded and the ones you're still carrying. The size of your current haul doesn't tell you whether you've met an unlock requirement.",
+        "paragraphs": [
+          "Later tools in Shred A Billion are tied to how much cash you've shredded. When you're deciding whether an upgrade is within reach, distinguish between the bills you've already shredded and the ones you're still carrying. The size of your current haul doesn't tell you whether you've met an unlock requirement."
+        ],
+        "bullets": [
+          "Pick the tool you want to work toward. If you're aiming for the Mega Vac, check the requirement for that tool rather than assuming the same condition applies to the Black Hole.",
+          "Read any unlock requirement the game shows for that tool. Check what it asks you to track before comparing numbers: your coin balance isn't the same thing as the amount of cash you've shredded.",
+          "Compare the requirement with the matching progress shown in-game. If that progress is still short of the requirement, keep using your current tool to shred more cash, then check again. If the game doesn't show a target or a matching progress figure, don't use your coin balance to guess how close you are."
+        ]
+      },
+      {
+        "id": "match-the-tool-list-to-blue-chip-studios-roblox-experience",
+        "heading": "Match the Tool List to Blue Chip Studios' Roblox Experience",
+        "intro": "Before using a tool list or upgrade tip, check that it describes the same Roblox experience. The supplied listing identifies the game as Shred A Billion (MR Krabs) and names Blue Chip studios as its creator. Both details help distinguish it from other games or guides with similar wording.",
+        "paragraphs": [
+          "Open the Roblox experience listing and compare its title and creator with those identifiers. If either does not match, do not assume the equipment names or progression advice applies. When both match, use the tool names in this guide as a reference for that experience; see the main Shred A Billion guide for broader game information."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which tools are named in the official Shred A Billion description?",
+        "answer": "The starting tool is a hand vac. The later equipment named in the description is backpack vacs, the Mega Vac, and the Black Hole. Backpack vacs are described as a group, while the Mega Vac and the Black Hole each have their own name."
+      },
+      {
+        "question": "How do tools fit into the cash, shredder, and coin progression loop?",
+        "answer": "The vacuum handles pickup, and the shredder handles the payout. If you're checking what you earned from a trip, use the point when a bundle goes through the shredder as your checkpoint. That's when the cash you brought back turns into coins."
+      },
+      {
+        "question": "What is the best tool strategy in Shred A Billion?",
+        "answer": "Use your current vacuum to finish cash runs while you work toward the next piece of equipment. If you're deciding whether to keep collecting or return to the shredder, remember that later equipment is tied to cash you've shredded. Processing the haul you already have advances that goal."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "upgrade",
+      "multiplayer",
+      "endings",
+      "demo"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "upgrade",
+    "pageType": "guide",
+    "navLabel": "Upgrade",
+    "title": "Shred A Billion Upgrades (2026) – Tips & Strategy (Roblox)",
+    "description": "Get more out of upgrade in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Upgrades: Strategy, Key Mechanics & What to Avoid",
+      "lead": "Shred A Billion upgrades on Roblox take you from a hand vac toward backpack vacs, the Mega Vac, and the Black Hole as you shred more cash. The Roblox description names those milestones but does not give exact prices or unlock thresholds. If you’re working toward your next vacuum, distinguish the bills you’re carrying from the cash you’ve already shredded. Shredding earns coins, but a coin payout alone doesn’t tell you whether the next vacuum is available. Use the table to place your current vacuum in the progression, then follow the steps to check and compare your next option."
+    },
+    "sections": [
+      {
+        "id": "shred-cash-to-work-toward-your-next-vacuum",
+        "heading": "Shred Cash to Work Toward Your Next Vacuum",
+        "intro": "Back from the vault with a load of bills? Take it to the shredder before checking for a new vacuum. Your vacuum collects the bills, and the shredder turns each bundle you feed it into coins. Shredding more cash is how you work toward later equipment, so finish processing your haul before deciding what to do next.",
+        "paragraphs": [
+          "Back from the vault with a load of bills? Take it to the shredder before checking for a new vacuum. Your vacuum collects the bills, and the shredder turns each bundle you feed it into coins. Shredding more cash is how you work toward later equipment, so finish processing your haul before deciding what to do next."
+        ],
+        "table": {
+          "caption": "Shred A Billion Upgrades at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Shred Cash to Work Toward Your Next Vacuum",
+              "Back from the vault with a load of bills?"
+            ],
+            [
+              "From the Hand Vac to the Black Hole: The Named Milestones",
+              "Use the equipment names below to place your current vacuum in the progression."
+            ],
+            [
+              "Compare Vacuums on Similar Runs Before Nightfall",
+              "To see whether your new vacuum saves you time in Shred A Billion, compare it with your old one on a short route you already know."
+            ],
+            [
+              "Check That an Upgrade Tip Is for the Blue Chip Studios Roblox Game",
+              "Before following a price, unlock instruction, or equipment recommendation, confirm it refers to the Roblox experience Shred A Billion (🦀MR Krabs🦀)…"
+            ]
+          ]
+        },
+        "bullets": [
+          "Finish shredding the bills you brought back. If you're still carrying part of the haul, feed those bills into the shredder too. When you're checking what the run earned, count the coins from the bundles you processed, not the bills you picked up in the vault.",
+          "Note the payout for that haul. If you're tracking what each trip earns, jot down your coin total before and after shredding. The difference tells you what this batch paid out, without mixing it up with coins you already had.",
+          "Check whether the game now offers another vacuum. If it does, use the option the game shows to decide what to aim for next. If no new vacuum is offered, take your current one back into the vault, collect another load, and check again after shredding it."
+        ]
+      },
+      {
+        "id": "from-the-hand-vac-to-the-black-hole-the-named-milestones",
+        "heading": "From the Hand Vac to the Black Hole: The Named Milestones",
+        "intro": "Use the equipment names below to place your current vacuum in the progression. The hand vac is the starter tool, while backpack vacs are a group of later options rather than one specific model. If the game offers you a backpack vac, use the exact name shown in-game when deciding which one to choose.",
+        "paragraphs": [
+          "Read the rows as milestones, not as a shopping list. For example, if the game offers a backpack vac while you're still using the hand vac, that specific backpack is the option to evaluate. The mention of the Mega Vac doesn't mean it's available to you now, and the order of the names doesn't rank them by speed, capacity, or value."
+        ],
+        "bullets": [
+          "Equipment | Place in progression | What to check",
+          "Hand vac | Starting tool | Confirm this is what you're using before comparing it with a later option.",
+          "Backpack vacs | Group of later options | Check which specific backpack vac the game offers and read any requirements shown for that model.",
+          "Mega Vac | Named later equipment | Check whether the Mega Vac itself is offered rather than assuming it follows your current vacuum.",
+          "Black Hole | Named later equipment | Look for the Black Hole by name and check any requirements the game displays."
+        ]
+      },
+      {
+        "id": "compare-vacuums-on-similar-runs-before-nightfall",
+        "heading": "Compare Vacuums on Similar Runs Before Nightfall",
+        "intro": "To see whether your new vacuum saves you time in Shred A Billion, compare it with your old one on a short route you already know. Start both runs at roughly the same time of day, preferably with enough daylight to finish. Monsters appear at night, so a run interrupted after dark is a poor comparison with an uninterrupted daytime run.",
+        "paragraphs": [
+          "If the times are close or one run was interrupted, try another pair before choosing a vacuum for that route. A consistent time saving tells you something useful about the way you play, but it doesn't tell you which vacuum is best on a different route."
+        ],
+        "bullets": [
+          "Pick a starting point and a target haul before the first run. Use a target that both vacuums can reasonably reach on that route.",
+          "With the old vacuum, start timing at your chosen spot and stop when you reach the target haul. Note the elapsed time.",
+          "Repeat with the new vacuum, using the same starting point, route, and target. If the route has noticeably fewer bills on the second pass, wait for a run with a more comparable spread before comparing times."
+        ]
+      },
+      {
+        "id": "check-that-an-upgrade-tip-is-for-the-blue-chip-studios-roblox-game",
+        "heading": "Check That an Upgrade Tip Is for the Blue Chip Studios Roblox Game",
+        "intro": "Before following a price, unlock instruction, or equipment recommendation, confirm it refers to the Roblox experience Shred A Billion (🦀MR Krabs🦀) by Blue Chip studios. A tip that omits the game’s identity may describe a different experience, so check the instruction in the correct game before changing your upgrade plan.",
+        "paragraphs": [
+          "Before following a price, unlock instruction, or equipment recommendation, confirm it refers to the Roblox experience Shred A Billion (🦀MR Krabs🦀) by Blue Chip studios. A tip that omits the game’s identity may describe a different experience, so check the instruction in the correct game before changing your upgrade plan."
+        ],
+        "bullets": [
+          "Confirm the platform is Roblox.",
+          "Match the creator name to Blue Chip studios.",
+          "Look for the MR Krabs wording in the experience title.",
+          "If the tip does not identify the experience, verify it in the game before acting on it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does a full haul mean the next vacuum is ready?",
+        "answer": "Not necessarily. A haul you’re still carrying hasn’t been through the shredder, so it hasn’t paid out coins yet. If you’re trying to see whether that haul moved you closer to the next vacuum, finish processing it before checking what equipment is available."
+      },
+      {
+        "question": "Does buying a vacuum open the gold vault?",
+        "answer": "The gold vault opens with the golden key, which you find by digging. Treat equipment progression and vault access as separate goals: if you’re trying to open the gold vault, look for the key rather than assuming that reaching a named vacuum milestone will open it."
+      },
+      {
+        "question": "Is the Roblox group coin bonus a vacuum unlock?",
+        "answer": "The Roblox listing advertises 100 free coins for joining the group. That’s a coin reward, not an offer of a specific vacuum. If you’re aiming for a particular piece of equipment, don’t treat the bonus amount as its price or assume joining the group unlocks it."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "endings",
+      "tool",
+      "automation",
+      "multiplayer"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "endings",
+    "pageType": "guide",
+    "navLabel": "Endings",
+    "title": "Shred A Billion Roblox Endings Guide (2026) – Locations",
+    "description": "Shred A Billion endings guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Roblox Endings Guide: Locations, Requirements & Rewards",
+      "lead": "If you’re looking for Shred A Billion Roblox endings, the heist finish is getting the gold to the hideout. The Roblox listing describes that finish but does not confirm any alternate endings. Dig for the golden key to open the gold vault, then load the gold onto carts and ride to the hideout. The fastest-heist leaderboard compares completion times, so opening the vault is a milestone, not the finish. The table and steps below show where the unlock ends, where the extraction begins, and what result to look for after the cart ride."
+    },
+    "sections": [
+      {
+        "id": "the-heist-ends-when-you-take-the-gold-to-the-hideout",
+        "heading": "The Heist Ends When You Take the Gold to the Hideout",
+        "intro": "The gold route has three separate milestones. Reaching the gold means you have found the objective inside the opened gold vault. Loading it onto the carts means the haul is ready to move. The heist reaches its described finish when you ride the carts to the hideout. These moments should not be treated as interchangeable because filling the carts alone does not confirm that the extraction is complete.",
+        "paragraphs": [
+          "For a first attempt, prioritize reaching the hideout safely and learning the route. Once you can complete the trip consistently, use the fastest-heist leaderboard to compare your completion time and begin improving the run. The available description confirms the leaderboard comparison, but it does not specify a separate reward, timer trigger, cart control scheme, or results-screen layout.",
+          "Use this extraction checklist after opening the gold vault:",
+          "Finish the vault objective and make sure the gold is loaded onto the carts.",
+          "Begin the cart ride toward the hideout using the route available in your current session.",
+          "Treat arrival at the hideout as the completion point described for the heist.",
+          "Record or compare the resulting completion time on the fastest-heist leaderboard when the game presents it.",
+          "If you are still learning the route, complete the delivery before attempting a faster run. A speed attempt made before you understand the extraction path can make it harder to tell whether the issue was finding the gold, loading the carts, or reaching the destination. The Roblox description presents the hideout ride and leaderboard as the end-stage sequence, while alternate endings are not confirmed in the available game information."
+        ],
+        "table": {
+          "caption": "Shred A Billion Roblox Endings at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "The Heist Ends When You Take the Gold to the Hideout",
+              "The gold route has three separate milestones."
+            ],
+            [
+              "The Golden Key Opens the Gold Vault",
+              "Base your next move on whether you’ve found the golden key."
+            ],
+            [
+              "Shredder Coins and the Group Bonus Are Separate From the Heist",
+              "Shredder Coins come from processing cash, not from a stated gold-delivery reward."
+            ],
+            [
+              "Check the Roblox Creator Before Using a Demo Walkthrough",
+              "On Roblox, look for Shred A Billion with MR Krabs in the experience title and Blue Chip studios in the creator credit."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "the-golden-key-opens-the-gold-vault",
+        "heading": "The Golden Key Opens the Gold Vault",
+        "intro": "Base your next move on whether you’ve found the golden key. Before you have it, your objective is to dig deeper. Once you have it, your objective switches to unlocking the gold vault.",
+        "paragraphs": [
+          "The game’s description gives the order of those objectives without naming a dig location or a required vacuum model. If you’re deciding whether to save for an upgrade before looking for the key, use the beginner guide for equipment progression."
+        ]
+      },
+      {
+        "id": "shredder-coins-and-the-group-bonus-are-separate-from-the-heist",
+        "heading": "Shredder Coins and the Group Bonus Are Separate From the Heist",
+        "intro": "Shredder Coins come from processing cash, not from a stated gold-delivery reward. The official description says that players vacuum up bank-vault bills, feed the cash into the shredder, and turn each bundle into coins. Those coins support the wider equipment progression, so shredding cash is the confirmed coin-earning activity during regular play.",
+        "paragraphs": [
+          "The listing also advertises 100 free coins for joining the game’s group. That is a separate group bonus rather than a result tied to opening the gold vault, loading the carts, or reaching the hideout. Treat it as an account or community-related bonus when checking your coin total.",
+          "The advertised heist route ends with taking the gold to the hideout and comparing the run on the fastest-heist leaderboard. The listing does not describe an additional extraction payout, so do not treat the leaderboard comparison as a confirmed coin reward. Any coins earned during the run should be attributed to the listed shredding activity or the group bonus.",
+          "For the ending itself, look for successful arrival at the hideout. Check your coin balance separately from the completion result so the two systems are not confused."
+        ]
+      },
+      {
+        "id": "check-the-roblox-creator-before-using-a-demo-walkthrough",
+        "heading": "Check the Roblox Creator Before Using a Demo Walkthrough",
+        "intro": "On Roblox, look for Shred A Billion with MR Krabs in the experience title and Blue Chip studios in the creator credit. If you find several similar search results, open the experience page so you can check both details before you play.",
+        "paragraphs": [
+          "When a demo walkthrough links to an experience, open that listing and compare it with the one you play. For a video, check the description for the Roblox listing. A walkthrough titled simply Shred A Billion can leave the version unclear. If the walkthrough gives you only the shared title or points to a listing with a different creator, skip its ending route and use a guide that names the Blue Chip studios experience."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Shred A Billion on Roblox have multiple endings?",
+        "answer": "The Roblox listing describes a single finish for the gold heist: delivering the haul to the hideout. It does not describe any alternate route that leads to a different ending. A faster run changes the result you compare on the leaderboard, not the destination the listing describes."
+      },
+      {
+        "question": "What does the golden key unlock?",
+        "answer": "Finding it gets you into the gold vault, where the extraction part of the heist begins. Think of the key as the handoff between two objectives: you can stop digging for access once you have it, but opening the vault does not mean the gold has made it out."
+      },
+      {
+        "question": "Is the reported demo vacuum ending confirmed in the Roblox version?",
+        "answer": "The Roblox listing names the Mega Vac and the Black Hole as equipment you can work toward, not as final objectives. Use those names to identify upgrades, not to decide whether you’ve beaten the heist. For the Roblox run, the finish described in the listing is the gold delivery to the hideout."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "automation",
+      "upgrade",
+      "badges",
+      "tool"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "automation",
+    "pageType": "guide",
+    "navLabel": "Automation",
+    "title": "Shred A Billion Automation Guide (2026) – How It Works",
+    "description": "Shred A Billion Automation explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Automation Guide: How It Works & Best Tips",
+      "lead": "Shred A Billion automation is not described as a confirmed feature in the supplied Roblox listing. The listing describes a player-driven loop: collect bills with a vacuum, feed them into the shredder, and earn coins. It names a hand vac, backpack vacs, the Mega Vac, and the Black Hole, but does not say that any tool collects or processes cash automatically. Use the checks below to distinguish confirmed equipment progression from automation claims, and to assess any instructions you encounter. The sections cover the documented mechanics, what remains unconfirmed, and practical ways to verify whether a tip applies to your game."
+    },
+    "sections": [
+      {
+        "id": "how-cash-collection-and-shredding-work",
+        "heading": "How Cash Collection and Shredding Work",
+        "intro": "Use your vacuum to pick up bills inside the bank vault. Once you have a bundle, feed it into the shredder. Each bundle you shred turns into coins, so picking up the bills gives you the cash to process and shredding it earns the payout.",
+        "paragraphs": [
+          "If your goal is to earn coins for an upgrade, finish shredding the cash you've already gathered before heading back for more."
+        ],
+        "table": {
+          "caption": "Shred A Billion Automation at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "How Cash Collection and Shredding Work",
+              "Use your vacuum to pick up bills inside the bank vault."
+            ],
+            [
+              "Which Vacuums Are Named, and What Their Names Confirm",
+              "The hand vac is your starting tool in Shred A Billion."
+            ],
+            [
+              "What the Listing Does Not Confirm About Automation",
+              "The Roblox listing leaves open whether cash collection, delivery to the shredder, or shredding can happen without player input."
+            ],
+            [
+              "How to Check an Automation Tip in Your Game",
+              "Start with the creator name."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "which-vacuums-are-named-and-what-their-names-confirm",
+        "heading": "Which Vacuums Are Named, and What Their Names Confirm",
+        "intro": "The hand vac is your starting tool in Shred A Billion. As you shred more cash, you can work toward backpack vacs, the Mega Vac, and the Black Hole. The Roblox description does not give a cash threshold for each upgrade.",
+        "paragraphs": [
+          "The Mega Vac and the Black Hole are names for later equipment, not labels for an automation mode. If a tip calls the Black Hole an automatic collector, the name tells you which upgrade the tip is talking about, not whether it collects bills on its own."
+        ]
+      },
+      {
+        "id": "what-the-listing-does-not-confirm-about-automation",
+        "heading": "What the Listing Does Not Confirm About Automation",
+        "intro": "The Roblox listing leaves open whether cash collection, delivery to the shredder, or shredding can happen without player input. Each is a separate claim. A vacuum that picks up nearby bills on its own would automate collection. Automatic delivery would move those bills to the shredder, and automatic shredding would process them once they arrive.",
+        "paragraphs": [
+          "Unattended operation goes further. It would let the process keep running after the player stops giving input. The listing leaves open whether any of these features exist in Shred A Billion and what upgrade or other requirement, if any, would unlock them."
+        ]
+      },
+      {
+        "id": "how-to-check-an-automation-tip-in-your-game",
+        "heading": "How to Check an Automation Tip in Your Game",
+        "intro": "Start with the creator name. The Roblox experience you want is Shred A Billion (MR Krabs) by Blue Chip studios. If a video or post shows a similar title but a different creator, don't assume its instructions apply to your game.",
+        "paragraphs": [
+          "Start with the creator name. The Roblox experience you want is Shred A Billion (MR Krabs) by Blue Chip studios. If a video or post shows a similar title but a different creator, don't assume its instructions apply to your game."
+        ],
+        "bullets": [
+          "Pin down what the tip promises. Faster collection and collection without your input are different claims. If the tip just says “auto,” look for a demonstration that shows which action happens on its own.",
+          "Compare the tip with what you can see in your current game. If it names an item or an unlock requirement, check that the item or requirement matches what the game shows you.",
+          "Before spending coins on an upgrade for automation, look for the specific behavior the tip promises. Seeing the same tool in your game doesn't mean it works the way the tip describes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Shred A Billion have automatic cash collection?",
+        "answer": "The official description says players use vacuums to collect bills, but it does not confirm that collection continues automatically or while unattended. Check the current game directly before relying on a claim that a particular vacuum works without player input."
+      },
+      {
+        "question": "Which vacuum should I work toward for automation?",
+        "answer": "The listing names backpack vacs, the Mega Vac, and the Black Hole as later equipment after the starter hand vac. It does not describe those tools as automation or rank them by speed, so their names alone do not establish which is best for automatic collection."
+      },
+      {
+        "question": "How can I tell whether an automation guide is for the right game?",
+        "answer": "Match it to the Roblox experience titled Shred A Billion (🦀MR Krabs🦀) by Blue Chip studios. A third-party mechanics reference is available, but its instructions are reported rather than confirmed; compare any claimed behavior with what you can see in your own game."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "badges",
+      "endings",
+      "boost",
+      "upgrade"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "badges",
+    "pageType": "guide",
+    "navLabel": "Badges",
+    "title": "Shred A Billion Badges Guide (2026) – Locations & Rewards",
+    "description": "Shred A Billion badges guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Badges: How to Find and Complete Every One",
+      "lead": "This Shred A Billion badges guide helps you distinguish Roblox badge awards from the game’s other milestones. The official description highlights the golden key, the gold-vault heist, coin earnings, equipment upgrades, and a fastest-heist leaderboard, but it does not identify individual badges or list their unlock conditions. Use the checks below to confirm that a badge belongs to the correct Roblox experience, then follow the exact action named in its description. Do not assume that opening the vault, earning coins, or recording a fast time automatically grants a badge."
+    },
+    "sections": [
+      {
+        "id": "check-the-roblox-experience-before-attempting-a-badge",
+        "heading": "Check the Roblox Experience Before Attempting a Badge",
+        "intro": "Shred A Billion is listed on Roblox as “Shred A Billion (🦀MR Krabs🦀),” created by Blue Chip studios. Start from that experience when looking for its badges. Search results can mix Roblox badges with achievements for other versions or similarly named games, so verify the experience associated with an entry before treating it as relevant.",
+        "paragraphs": [
+          "If you reach a badge through a search result, open its associated experience and check that it leads to the Blue Chip studios Roblox game. The badge title alone is not enough to establish that it belongs to the game you are playing. Once you have the right experience, use the badge’s own description as the guide to its objective."
+        ],
+        "table": {
+          "caption": "Shred A Billion Badges at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Check the Roblox Experience Before Attempting a Badge",
+              "Shred A Billion is listed on Roblox as “Shred A Billion (🦀MR Krabs🦀),” created by Blue Chip studios."
+            ],
+            [
+              "How to Read a Badge Objective",
+              "Read the full badge description before starting an attempt."
+            ],
+            [
+              "Game Milestones Are Not Automatically Badge Rewards",
+              "The game description mentions several activities that players may mistake for badge requirements."
+            ],
+            [
+              "Prepare for the Objective Without Assuming a Reward",
+              "Shred A Billion’s core progression begins with collecting bank-vault cash using a hand vac and feeding it to a shredder for coins."
+            ],
+            [
+              "A Practical Badge-Checking Routine",
+              "Use the same short routine whenever you discover a possible Shred A Billion badge."
+            ],
+            [
+              "Keep Badge Rewards Separate From Coin Earnings",
+              "Shredding cash earns coins, which are used within the game’s progression."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-read-a-badge-objective",
+        "heading": "How to Read a Badge Objective",
+        "intro": "Read the full badge description before starting an attempt. Identify the action it asks for, any named location, and whether it describes a sequence. A badge objective might refer to a game milestone, but the available game description does not confirm that any particular milestone awards a Roblox badge. Treat the badge entry, rather than an assumption based on the game’s features, as the place to check its stated condition.",
+        "paragraphs": [
+          "Keep the goal narrow while you play: complete the action the badge actually describes, then check your Roblox badge collection for the award. If the entry is vague or does not name a condition, do not infer one from a leaderboard, coin balance, or equipment unlock."
+        ],
+        "steps": [
+          {
+            "heading": "Experience",
+            "description": "does the badge lead back to the correct Roblox game?"
+          },
+          {
+            "heading": "Objective",
+            "description": "what exact action or sequence does the badge description name?"
+          },
+          {
+            "heading": "Attempt",
+            "description": "did you complete that action in the relevant location?"
+          },
+          {
+            "heading": "Result",
+            "description": "does the badge appear in your Roblox badge collection?"
+          }
+        ],
+        "bullets": [
+          "Confirm the badge is associated with the Blue Chip studios Roblox experience.",
+          "Read the entire description and note its action words, location, and any stated order.",
+          "Attempt only the objective described; do not substitute a similar-sounding milestone.",
+          "Check your Roblox badge collection afterward to see whether the award appears."
+        ]
+      },
+      {
+        "id": "game-milestones-are-not-automatically-badge-rewards",
+        "heading": "Game Milestones Are Not Automatically Badge Rewards",
+        "intro": "The game description mentions several activities that players may mistake for badge requirements. Digging can reveal a golden key, and that key opens the gold vault. The heist then involves loading gold onto carts and riding to a hideout. These are described as game objectives, but no individual Roblox badge or badge condition is named for any of them.",
+        "paragraphs": [
+          "The fastest-heist leaderboard is another distinct feature: it lets players compare completion times. A leaderboard result is not itself proof that a Roblox badge was awarded. If a badge description explicitly names a heist or time-related task, use that wording and check your badge collection after completing it; otherwise, treat the leaderboard as a separate progress comparison."
+        ],
+        "bullets": [
+          "Golden key: a game item that opens the gold vault.",
+          "Gold-vault heist: load gold onto carts and ride to the hideout.",
+          "Fastest-heist leaderboard: a place to compare completion times, not confirmation of a badge award."
+        ]
+      },
+      {
+        "id": "prepare-for-the-objective-without-assuming-a-reward",
+        "heading": "Prepare for the Objective Without Assuming a Reward",
+        "intro": "Shred A Billion’s core progression begins with collecting bank-vault cash using a hand vac and feeding it to a shredder for coins. The description names backpack vacs, the Mega Vac, and the Black Hole as equipment in the progression. Those details can help you understand the game’s progression, but they do not establish that owning a particular vacuum is required for a badge.",
+        "paragraphs": [
+          "If the badge description names digging or the gold vault, approach that objective separately from ordinary cash collection and shredding. The game description says digging reveals the golden key, which opens the gold vault. It does not specify a badge prerequisite, a required equipment tier, or a particular amount of coins, so avoid treating those as confirmed requirements unless the badge entry itself says so.",
+          "The description also says monsters come out at night. Keep that in mind when planning game activity, but do not assume a badge requires a night encounter unless its stated objective says so. The game supports play with up to three friends; that is an available way to play, not evidence that a badge requires a group."
+        ]
+      },
+      {
+        "id": "a-practical-badge-checking-routine",
+        "heading": "A Practical Badge-Checking Routine",
+        "intro": "Use the same short routine whenever you discover a possible Shred A Billion badge. First confirm the Roblox experience. Next translate the badge description into a specific action you can recognize in the game. Then complete that action and check the Roblox badge collection. This prevents unrelated milestones from being mistaken for rewards and gives you a clear next step when an attempt does not produce an award.",
+        "paragraphs": [
+          "For a description tied to a location, make sure you have reached the named location before judging the attempt. For a description that names multiple actions, follow the stated order. For a description that does not provide a clear condition, avoid guessing from the game’s advertised features. The available official description does not provide a complete badge catalog, locations for every badge, or a list of badge rewards."
+        ],
+        "bullets": [
+          "Experience: does the badge lead back to the correct Roblox game?",
+          "Objective: what exact action or sequence does the badge description name?",
+          "Attempt: did you complete that action in the relevant location?",
+          "Result: does the badge appear in your Roblox badge collection?"
+        ]
+      },
+      {
+        "id": "keep-badge-rewards-separate-from-coin-earnings",
+        "heading": "Keep Badge Rewards Separate From Coin Earnings",
+        "intro": "Shredding cash earns coins, which are used within the game’s progression. The official description also advertises 100 free coins for joining the game’s group. That advertised group bonus is a separate condition from earning a badge; it should not be presented as a badge reward.",
+        "paragraphs": [
+          "When checking what you received after an objective, distinguish an in-game coin increase from a Roblox badge award. Coins indicate the shredder or another stated game reward paid out. A badge should be checked in your Roblox badge collection. The available description does not identify specific badge rewards, so there is no confirmed reward list to use for planning."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many badges are in Shred A Billion?",
+        "answer": "The official game description does not provide a badge count or a complete badge list. Check the badges associated with the Blue Chip studios Roblox experience, and verify each entry through its experience link before treating it as part of this game."
+      },
+      {
+        "question": "Which Shred A Billion badges are hardest to earn?",
+        "answer": "No individual badge objectives or difficulty rankings are given in the available game description, so a reliable hardest-to-easiest ranking cannot be made. Use each badge’s stated condition to judge the effort involved, and distinguish confirmed requirements from assumptions about vault or leaderboard milestones."
+      },
+      {
+        "question": "What rewards do badges give in Shred A Billion?",
+        "answer": "The available game description does not list rewards for individual Roblox badges. It separately advertises 100 free coins for joining the game’s group; that is a group-membership bonus, not a confirmed badge payout. Check a badge entry and your in-game balance separately when tracking rewards."
+      },
+      {
+        "question": "Are Shred A Billion Roblox badges the same as Steam achievements?",
+        "answer": "A Roblox badge belongs to a Roblox experience, while an achievement listed for another platform should be checked against that platform’s version. Verify the experience attached to a badge and do not assume a similarly named achievement from another version has the same objective or reward."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "boost",
+      "automation",
+      "bucket",
+      "endings"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "boost",
+    "pageType": "guide",
+    "navLabel": "Boost",
+    "title": "Shred A Billion Boosts Explained (2026) – Mechanics",
+    "description": "Boost in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Boosts Explained: Mechanics, Tips & Mistakes",
+      "lead": "If you’re looking up Shred A Billion boosts, the official Roblox listing leaves the effects, duration, and activation of a separate boost mechanic undefined. It does advertise 100 coins for joining the Roblox group. If you see a boost label in your session, read its exact wording to find out which action it affects. For a claim about extra coins, check the payout after shredding comparable loads with the same vacuum. The table and steps below cover what to look for on a boost prompt and how to check the effect it describes."
+    },
+    "sections": [
+      {
+        "id": "match-the-boost-tip-to-the-blue-chip-studios-roblox-game",
+        "heading": "Match the Boost Tip to the Blue Chip Studios Roblox Game",
+        "intro": "On Roblox, look for Shred A Billion with MR Krabs in the title and Blue Chip Studios in the creator credit. Match both details before following a boost tip from a video or post. If the tip shows a different creator, check which experience the player opened before trying their instructions.",
+        "paragraphs": [
+          "If a boost prompt appears in your session, record the four details below. When comparing your prompt with a tip, match the full label and check whether both describe the same action and conditions."
+        ],
+        "table": {
+          "caption": "Shred A Billion Boosts at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Match the Boost Tip to the Blue Chip Studios Roblox Game",
+              "On Roblox, look for Shred A Billion with MR Krabs in the title and Blue Chip Studios in the creator credit."
+            ],
+            [
+              "Use the Shredder Payout to Check a Coin Boost Claim",
+              "In Shred A Billion, you vacuum up cash in the bank vault and earn coins by feeding that cash into the shredder."
+            ],
+            [
+              "Keep the Same Vacuum When Checking a Collection Boost",
+              "Use the vacuum you already have equipped for both attempts."
+            ],
+            [
+              "The Roblox Group Advertises a 100-Coin Reward",
+              "Shred A Billion offers 100 free coins for joining its Roblox group."
+            ]
+          ]
+        },
+        "bullets": [
+          "Exact boost label. Copy the full name as it appears on screen so you can match it to the wording in the tip.",
+          "Affected action. Note which action the description names and what it says will change.",
+          "Activation requirement. Record any step or condition the prompt says you must complete before the effect starts.",
+          "Duration. Copy any stated time limit and note when the countdown starts if the prompt says."
+        ]
+      },
+      {
+        "id": "use-the-shredder-payout-to-check-a-coin-boost-claim",
+        "heading": "Use the Shredder Payout to Check a Coin Boost Claim",
+        "intro": "In Shred A Billion, you vacuum up cash in the bank vault and earn coins by feeding that cash into the shredder. To check a claim that a boost increases the payout, measure how many coins each load adds to your balance.",
+        "paragraphs": [
+          "An unequal load makes the payout difference hard to interpret: the extra coins could come from shredding more cash. If a monster interrupts either trip, retry that run. The interruption can change how much cash reaches the shredder or when the payout happens, which matters if the effect expires before you arrive.",
+          "If both clean runs pay the same and the game shows the effect as active at the second payout, you saw no extra coins for that load under those conditions. If the second payout is higher, repeat the pair with fresh, similarly sized loads to see whether the difference holds."
+        ],
+        "bullets": [
+          "Set up two short runs on the same route. Use the same vacuum and aim for similarly sized loads. Keep the group size the same for both runs, whether you play solo or with friends. Short trips reduce the chance that nighttime monsters interrupt one attempt.",
+          "Shred the first load under normal conditions. Write down your coin balance immediately before and immediately after the payout, then subtract the earlier balance from the later one.",
+          "Shred the second load while the claimed effect is active. If the game displays its status, check it just before you shred. Record both balances again and compare the coins earned on each run."
+        ]
+      },
+      {
+        "id": "keep-the-same-vacuum-when-checking-a-collection-boost",
+        "heading": "Keep the Same Vacuum When Checking a Collection Boost",
+        "intro": "Use the vacuum you already have equipped for both attempts. Shred A Billion starts you with a hand vac and offers backpack vacs, the Mega Vac, and the Black Hole later in the progression. See the Shred A Billion upgrades guide for more on equipment progression.",
+        "paragraphs": [
+          "If a boost prompt mentions collection speed, measure how long it takes to pick up a similar load. Pick two patches with roughly the same amount of cash and a similar spread of bills so one attempt involves about as much movement as the other."
+        ],
+        "bullets": [
+          "Start timing when you begin vacuuming and stop when you finish collecting the chosen patch. Take one time under normal conditions and another while the effect is shown as active, if the game displays that status.",
+          "If you change vacuums after the first attempt, restart the comparison from the beginning. Take a fresh time under normal conditions with the newly equipped vacuum, then use it again for the boosted attempt."
+        ]
+      },
+      {
+        "id": "the-roblox-group-advertises-a-100-coin-reward",
+        "heading": "The Roblox Group Advertises a 100-Coin Reward",
+        "intro": "Shred A Billion offers 100 free coins for joining its Roblox group. Open the game's Roblox listing to find the group tied to the offer, then join with the same Roblox account you use to play. The offer is for group membership, not a code to enter or a multiplier to activate.",
+        "paragraphs": [
+          "To see whether the bonus has appeared, note your in-game coin balance before joining. Once Roblox shows that you're a member, check your balance again before shredding another load. That way, a shredder payout won't get mixed in with the group reward when you compare the two balances.",
+          "The listing doesn't say when the coins arrive or whether there's a separate claim step. Follow any instructions Roblox displays for the offer."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How can I verify Shred A Billion boost information in-game?",
+        "answer": "If the game displays a boost, read the label before you act. Use the action named there to decide what to watch. For example, a claim about coins per shred calls for checking the payout from the shredder, while a claim about collection speed calls for timing the pickup itself."
+      },
+      {
+        "question": "Can I use the fastest-heist leaderboard to check a boost?",
+        "answer": "Use the leaderboard to compare completed gold heists. Its result covers the run through delivery to the hideout, so a faster finish alone leaves the cause unclear. If a boost label refers to a specific action, measure that action during comparable attempts to see whether it changes."
+      },
+      {
+        "question": "What if I change vacuums halfway through a boost comparison?",
+        "answer": "Start a fresh pair of attempts with the new vacuum. The hand vac, backpack vacs, Mega Vac, and Black Hole are equipment milestones. Keeping your equipped tool fixed across both attempts gives you a clearer comparison of the specific action the boost claims to affect."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "bucket",
+      "badges",
+      "drone",
+      "automation"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "bucket",
+    "pageType": "guide",
+    "navLabel": "Bucket",
+    "title": "Shred A Billion Bucket (2026) – Tips & Strategy | Full Guide",
+    "description": "Get more out of bucket in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Bucket: Strategy, Key Mechanics & What to Avoid",
+      "lead": "The Roblox listing doesn’t name a Shred A Billion bucket or explain how to unlock or use one. It names the hand vac as your starting tool, so you don’t need to find a bucket before you start collecting bills. If a walkthrough tells you to get a bucket first, check that it shows the Roblox experience by Blue Chip studios. Even when the game names match, check that the item shown matches what you see in your own session. The table and steps below separate the named equipment from bucket instructions you might encounter."
+    },
+    "sections": [
+      {
+        "id": "check-the-roblox-creator-before-following-a-bucket-walkthrough",
+        "heading": "Check the Roblox Creator Before Following a Bucket Walkthrough",
+        "intro": "Before applying a bucket tip, match the walkthrough to the Roblox experience: its title includes “MR Krabs,” and its creator is Blue Chip studios. Check that the guide actually shows this experience and the item it calls a bucket. A matching game name by itself does not confirm that the walkthrough’s item or instructions apply here.",
+        "paragraphs": [
+          "If the title, creator, or pictured item does not match, do not rely on its bucket directions for this game. The supplied Roblox listing does not identify a bucket, so a guide’s use of that name is not enough to establish what the item does or how to obtain it. Use the main Shred A Billion page to find the Roblox entry point."
+        ],
+        "table": {
+          "caption": "Shred A Billion Bucket at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Check the Roblox Creator Before Following a Bucket Walkthrough",
+              "Before applying a bucket tip, match the walkthrough to the Roblox experience: its title includes “MR Krabs,” and its creator is Blue Chip studios."
+            ],
+            [
+              "Check for a Bucket Requirement Before Grinding Cash",
+              "Shredding cash is part of progressing toward later equipment, but the listed progression does not establish that you need a bucket."
+            ],
+            [
+              "Collecting Bills and Earning Coins Are Separate Steps",
+              "In Shred A Billion, your vacuum picks up bills in the bank vault."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "check-for-a-bucket-requirement-before-grinding-cash",
+        "heading": "Check for a Bucket Requirement Before Grinding Cash",
+        "intro": "Shredding cash is part of progressing toward later equipment, but the listed progression does not establish that you need a bucket. The named equipment includes backpack vacs, the Mega Vac, and the Black Hole; a bucket requirement is not confirmed by that list.",
+        "paragraphs": [
+          "If a walkthrough gives a bucket price or cash threshold, first check whether your own session shows an item with the same name and the stated requirement. Only save or grind toward that target if the in-game item and condition match the walkthrough. If you cannot find a matching item or requirement, do not treat the walkthrough’s number as a confirmed Roblox unlock. The available listing does not give a bucket price or threshold.",
+          "Keep the distinction clear: a general instruction to shred more cash describes progression, not proof that a specific bucket is required. Check the item name and requirement before changing your upgrade plans."
+        ],
+        "steps": [
+          {
+            "heading": "Picks up bills",
+            "description": "Watch what the player uses when bills leave the floor. If the vacuum does the pickup and the item appears afterward, the clip doesn't show the item collecting anything."
+          },
+          {
+            "heading": "Carries bills",
+            "description": "Start watching after pickup. Look for a handoff that shows the collected cash going into the item, rather than assuming it holds bills just because the player brings it to the shredder."
+          },
+          {
+            "heading": "Changes coin payout",
+            "description": "Compare how many coins the player gains from the same amount of shredded cash with and without the item, keeping other conditions the same. A bigger payout from a bigger load doesn't show a bonus."
+          }
+        ]
+      },
+      {
+        "id": "collecting-bills-and-earning-coins-are-separate-steps",
+        "heading": "Collecting Bills and Earning Coins Are Separate Steps",
+        "intro": "In Shred A Billion, your vacuum picks up bills in the bank vault. To earn coins from that cash, feed it into the shredder. If a bucket walkthrough promises more coins, check whether the player actually earns more from the same amount of cash or simply brings more bills to the shredder.",
+        "paragraphs": [
+          "Watch the sequence from the first pickup to the coin payout. The moment the item appears matters: seeing it near the shredder tells you less than seeing what happens to the bills when the player uses it."
+        ],
+        "bullets": [
+          "Picks up bills: Watch what the player uses when bills leave the floor. If the vacuum does the pickup and the item appears afterward, the clip doesn't show the item collecting anything.",
+          "Carries bills: Start watching after pickup. Look for a handoff that shows the collected cash going into the item, rather than assuming it holds bills just because the player brings it to the shredder.",
+          "Changes coin payout: Compare how many coins the player gains from the same amount of shredded cash with and without the item, keeping other conditions the same. A bigger payout from a bigger load doesn't show a bonus."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do I need a bucket before my first vault trip?",
+        "answer": "No. Start with the hand vac it gives you. A walkthrough that starts by sending you to find a bucket is not describing the starter setup named on the Blue Chip studios Roblox page, so check which version it shows before following those steps."
+      },
+      {
+        "question": "Does carrying bills earn coins before I reach the shredder?",
+        "answer": "Picking up bills gives you cash to process, not the coin payout itself. Feed the bills into the shredder to earn coins. When a tip claims that a tool earns more, check whether it shows a larger haul or a change in coins after shredding. Those are different results."
+      },
+      {
+        "question": "Does shredding more cash guarantee a bucket unlock?",
+        "answer": "Shredding cash is how you work toward later vacuum equipment, but the Roblox listing gives no bucket milestone. Keep shredding to progress toward the named vacuums. Before treating any cash total as a bucket target, look for that requirement attached to an item in your own game."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "drone",
+      "boost",
+      "beginner-guide",
+      "badges"
+    ],
+    "lastReviewed": "2026-11-19"
+  },
+  {
+    "enabled": true,
+    "slug": "drone",
+    "pageType": "guide",
+    "navLabel": "Drone",
+    "title": "Shred A Billion Drones Guide (2026) – How It Works & Tips",
+    "description": "Shred A Billion Drones explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": false,
+    "parentSlug": "guides",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Shred A Billion Drones Guide: How It Works & Best Tips",
+      "lead": "The official Roblox listing for Shred A Billion drones gives no unlock requirement, price, or controls, and it does not say whether drones are available. If you see a drone entry in the Blue Chip studios experience, read the requirement displayed on that entry before spending coins. If you can equip one, start with a small cash pile so you can see which part of the job it handles and decide whether that saves you time."
+    },
+    "sections": [
+      {
+        "id": "match-the-drone-walkthrough-to-your-roblox-experience",
+        "heading": "Match the Drone Walkthrough to Your Roblox Experience",
+        "intro": "On Roblox, look for Shred A Billion with Mr. Krabs in the title and Blue Chip studios in the creator credit. If a walkthrough links to a Roblox experience, open that listing and compare both details. If you need the full game name or a starting point for the other mechanics, see the [Shred A Billion hub](/).",
+        "paragraphs": [
+          "Skip to the moment the walkthrough shows the item. Look for an in-game label, then follow the footage through to the action the player says the drone performed. If the clip cuts from the player equipping it to the pile already cleared, look for an uninterrupted demonstration. You want to see what happens between those two moments before trying to copy the setup."
+        ],
+        "table": {
+          "caption": "Shred A Billion Drones at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Match the Drone Walkthrough to Your Roblox Experience",
+              "On Roblox, look for Shred A Billion with Mr."
+            ],
+            [
+              "Read the Unlock Requirement Before Spending Coins",
+              "If an in-game drone entry displays a requirement, use its wording to decide your next step."
+            ],
+            [
+              "Check Whether a Drone Picks Up, Delivers, or Shreds Cash",
+              "The regular cash route in Shred A Billion starts in the bank vault."
+            ],
+            [
+              "Compare Two Runs That End at the Same Point",
+              "If you can unequip or switch off the drone, run the same short route once with it and once without it."
+            ],
+            [
+              "Keep Friends’ Actions Separate During a Drone Test",
+              "Shred A Billion supports play with up to three friends."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "read-the-unlock-requirement-before-spending-coins",
+        "heading": "Read the Unlock Requirement Before Spending Coins",
+        "intro": "If an in-game drone entry displays a requirement, use its wording to decide your next step. If it names a condition and also shows a price, check the condition first. That tells you whether earning more coins will move you closer to getting the item or whether the entry is asking you to do something else.",
+        "paragraphs": [
+          "The game’s equipment description names the hand vac, backpack vacs, Mega Vac, and Black Hole. Those are the milestones covered in the [Shred A Billion upgrades guide](/upgrade). If a walkthrough tells you to buy one of them on the way to a drone, look for the point where the game itself connects that purchase to the unlock. Seeing two items equipped in the same clip tells you only that the player had both at that moment."
+        ]
+      },
+      {
+        "id": "check-whether-a-drone-picks-up-delivers-or-shreds-cash",
+        "heading": "Check Whether a Drone Picks Up, Delivers, or Shreds Cash",
+        "intro": "The regular cash route in Shred A Billion starts in the bank vault. You collect bills with a vacuum, bring them to the shredder, and earn coins when the cash is shredded. These are separate moments you can watch if you want to find out where an equipped drone helps.",
+        "paragraphs": [
+          "Start beside a small patch of uncollected cash with your vacuum idle. Note your coin balance before you begin. Pick a patch where you can keep the bills in view. If something happens out of sight, change where you stand and try again with a fresh patch."
+        ],
+        "bullets": [
+          "Watch the edge of the pile when the drone approaches. Look for a bill leaving the pile while your vacuum is idle.",
+          "Follow the bill as far as you can. If the drone leaves your view, try positioning yourself where you can see both the pile and the approach to the shredder.",
+          "Check the change in your coin balance before feeding in any cash yourself. If you see the pile shrink but lose track of the bill, record pickup as the part you saw and leave the delivery question open."
+        ]
+      },
+      {
+        "id": "compare-two-runs-that-end-at-the-same-point",
+        "heading": "Compare Two Runs That End at the Same Point",
+        "intro": "If you can unequip or switch off the drone, run the same short route once with it and once without it. Keep the vacuum and starting point the same, and choose runs with similar amounts of cash. Monsters appear at night, so use daylight for both attempts. If one run crosses into night, repeat that attempt in daylight before comparing times.",
+        "paragraphs": [
+          "Choose a finish that matches what you want to measure. For pickup, stop when you clear the selected patch. For the full cash route, stop when you see the coins from the selected cash. Use the same finish on both runs. If you stop one timer at the shredder and the other at the coin payout, the times cover different amounts of work.",
+          "If the times are close, repeat the pair in reverse order so the drone run goes first. Write down any interruption that would explain a large difference, such as stopping to retrace your route. Base your next run on where you saw a difference. For example, if pickup was quicker but the payout took just as long, pay attention to the trip after collection before changing how you clear the pile."
+        ]
+      },
+      {
+        "id": "keep-friends-actions-separate-during-a-drone-test",
+        "heading": "Keep Friends’ Actions Separate During a Drone Test",
+        "intro": "Shred A Billion supports play with up to three friends. If you’re testing an equipped drone with friends nearby, ask them to leave your test pile and the shredder alone until you finish the first pass. Have one person watch the pile while another watches the shredder if both are difficult to see from the same spot. Agree on which bills you are following before either player starts watching.",
+        "paragraphs": [
+          "Once you can tell what happens on that first pass, repeat the same stretch while your friends work as usual. Watch whether the job you saw the drone perform is something a teammate was already doing on that route. If you want to adjust where players work for the next pass, see the [Shred A Billion co-op guide](/co-op)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use my heist leaderboard time to judge a drone’s effect on cash collection?",
+        "answer": "The leaderboard measures the gold heist, which includes moving gold on carts and riding to the hideout. If your question is about cash pickup, time how long it takes to clear a single patch. That keeps the cart trip and the other heist steps out of the comparison."
+      },
+      {
+        "question": "What does the golden key open?",
+        "answer": "Digging far enough reveals the key to the gold vault. If you’re following someone’s drone walkthrough and they pick up the key along the way, treat that moment as progress toward opening the gold vault. Look for a separate equipment interaction before acting on any claim about a drone unlock."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "guides",
+      "beginner-guide",
+      "bucket",
+      "co-op",
+      "boost"
+    ],
+    "lastReviewed": "2026-11-19"
+  }
+]

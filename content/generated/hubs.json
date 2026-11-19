@@ -1,0 +1,90 @@
+[
+  {
+    "enabled": true,
+    "slug": "guides",
+    "pageType": "hub",
+    "navLabel": "Guides",
+    "title": "Shred A Billion Guides",
+    "description": "Every Shred A Billion guide on this site in one place: Shred A Billion Beginner Guide, Shred A Billion Co OP, Shred A Billion Demo, Shred A Billion Multiplayer…",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Index",
+      "heading": "Shred A Billion Guides",
+      "lead": "All 12 Shred A Billion guides pages, grouped in one list. Each link opens a dedicated page."
+    },
+    "sections": [
+      {
+        "id": "all-pages",
+        "heading": "All Shred A Billion Guides",
+        "intro": "Pick a topic below. New Shred A Billion pages in this section are added here as soon as they are published.",
+        "links": [
+          {
+            "label": "Shred A Billion Beginner Guide",
+            "slug": "beginner-guide",
+            "description": "Master the basics with our Shred A Billion beginner guide on Roblox. Learn the core gameplay loop, first 15-minute progression steps, controls table, and tips."
+          },
+          {
+            "label": "Shred A Billion Co OP",
+            "slug": "co-op",
+            "description": "Co OP in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
+          },
+          {
+            "label": "Shred A Billion Demo",
+            "slug": "demo",
+            "description": "Get more out of demo in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Includes full tables and tips."
+          },
+          {
+            "label": "Shred A Billion Multiplayer",
+            "slug": "multiplayer",
+            "description": "Shred A Billion Multiplayer explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          },
+          {
+            "label": "Shred A Billion Tools",
+            "slug": "tool",
+            "description": "Tool in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
+          },
+          {
+            "label": "Shred A Billion Upgrades",
+            "slug": "upgrade",
+            "description": "Get more out of upgrade in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players."
+          },
+          {
+            "label": "Shred A Billion Roblox Endings",
+            "slug": "endings",
+            "description": "Shred A Billion endings guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players."
+          },
+          {
+            "label": "Shred A Billion Automation",
+            "slug": "automation",
+            "description": "Shred A Billion Automation explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          },
+          {
+            "label": "Shred A Billion Badges",
+            "slug": "badges",
+            "description": "Shred A Billion badges guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players."
+          },
+          {
+            "label": "Shred A Billion Boosts",
+            "slug": "boost",
+            "description": "Boost in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
+          },
+          {
+            "label": "Shred A Billion Bucket",
+            "slug": "bucket",
+            "description": "Get more out of bucket in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players."
+          },
+          {
+            "label": "Shred A Billion Drones",
+            "slug": "drone",
+            "description": "Shred A Billion Drones explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "screenshots": [],
+    "relatedSlugs": [],
+    "lastReviewed": "2026-11-19"
+  }
+]
