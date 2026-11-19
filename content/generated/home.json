@@ -2,13 +2,13 @@
   "enabled": true,
   "slug": "",
   "pageType": "home",
-  "title": "Shred A Billion Wiki & Guide (2026) – Codes, Tips & Meta",
-  "description": "Explore our complete Shred A Billion Roblox wiki and guide featuring active redeem codes, beginner progression steps, core mechanics tables, and winning tips.",
+  "title": "Shred A Billion: 2026 Wiki, Official Links & Demo Guide",
+  "description": "Find the official Shred A Billion Steam listing, tell it apart from the browser clicker, and check how to start the demo, play with friends, and plan upgrades.",
   "navVisible": true,
   "hero": {
     "eyebrow": "Shred A Billion Wiki & Guide",
-    "heading": "Shred A Billion Guide & Wiki: Mechanics, Codes & Starter Roadmap",
-    "lead": "Shred A Billion is a Roblox bank-heist game where you vacuum cash, feed it into a shredder, and earn coins for equipment progression. The official listing names Blue Chip studios as the creator and describes a hand vac, backpack vacs, the Mega Vac, and the Black Hole. It also says monsters appear at night, while digging can reveal a golden key for the gold vault. The listing advertises play with up to three friends and 100 free coins for joining the group; it does not establish a redeemable-code system. The sections below map the listed progression, heist steps, equipment, and multiplayer details.",
+    "heading": "Shred A Billion Wiki: Where to Play and How to Start",
+    "lead": "Play [Shred A Billion on Roblox](https://www.roblox.com/games/125332227026284) from the official game page. Look for Blue Chip studios as the creator so you know you’re opening the Roblox game covered here. In the bank vault, you start with a hand vac and earn coins by running bundles of bills through the shredder. You can bring up to three friends, and digging deeper gives you a new goal: finding the key to the gold vault. The table and steps below show what to look for on Roblox, how to get started, and what to aim for after your first batch of coins.",
     "supportingText": "",
     "primaryLink": {
       "label": "Open Beginner Guide",
@@ -21,46 +21,11 @@
   },
   "sections": [
     {
-      "id": "how-cash-collection-shredding-and-the-gold-heist-work",
-      "heading": "How Cash Collection, Shredding, and the Gold Heist Work",
-      "intro": "When you enter the bank vault in Shred A Billion, use your starting hand vac to pick up bills, then take the cash to the shredder. Each bundle earns coins when you shred it. Spend those coins on vacuum upgrades and repeat the collection and shredding cycle to earn more.",
+      "id": "where-to-play-on-roblox-and-who-made-it",
+      "heading": "Where to Play on Roblox and Who Made It",
+      "intro": "Official Shred A Billion game page: https://www.roblox.com/games/125332227026284",
       "paragraphs": [
-        "To open the gold vault, keep digging until you uncover the golden key. Use it to unlock the vault, then load the gold onto the carts. Opening the vault gets you to the gold, but the run continues after you load it. Ride the carts all the way to the hideout.",
-        "Once you've delivered the gold, use the fastest-heist leaderboard to see how your completion time compares with other runs. If you're playing to earn coins for your next upgrade, focus on shredding cash. If you're aiming for a leaderboard time, follow the gold route from the key through to the hideout."
-      ]
-    },
-    {
-      "id": "what-the-official-listing-says-about-vacuums-and-progression",
-      "heading": "What the Official Listing Says About Vacuums and Progression",
-      "intro": "The hand vac is your starting tool in Shred A Billion. The official listing ties access to later equipment to how much cash you shred, so use these names as progression milestones rather than a fixed purchase checklist.",
-      "paragraphs": [
-        "The listing doesn’t give prices, performance stats, or exact unlock requirements. Before saving for a specific upgrade, check what’s available to you in-game and compare any costs or requirements shown there. See the Shred A Billion upgrades guide for progression decisions and the tools guide for equipment details."
-      ],
-      "bullets": [
-        "Hand vac: The tool you start with.",
-        "Backpack vacs: A later equipment category, rather than a single named model.",
-        "Mega Vac: A named upgrade listed after backpack vacs.",
-        "Black Hole: The last piece of equipment named in the listing’s progression overview."
-      ]
-    },
-    {
-      "id": "nighttime-threats-and-playing-with-friends",
-      "heading": "Nighttime Threats and Playing With Friends",
-      "intro": "The official game description confirms two useful limits for planning a session: monsters appear at night, and the experience advertises play with up to three friends. It does not describe monster abilities, when night begins, or any special team roles, so treat those details as unknown rather than relying on assumed mechanics.",
-      "paragraphs": [
-        "For the party-size detail, “up to three friends” is the advertised number of friends you can bring. The listing does not clarify whether that count includes the player hosting the session. For fuller multiplayer coverage, see the co-op and multiplayer guides."
-      ],
-      "bullets": [
-        "Nighttime: Monsters appear; specific behaviors and timing are not described.",
-        "Friends: The listing advertises playing with up to three friends; it does not explain party setup or co-op roles."
-      ]
-    },
-    {
-      "id": "group-bonus-and-promo-code-status",
-      "heading": "Group Bonus and Promo-Code Status",
-      "intro": "The 100 free coins advertised for Shred A Billion are a Roblox group reward, not a promo code. To find the right group, start from the official experience page by Blue Chip studios. Joining the group is the condition named in the listing, but the listing does not say when the coins are credited or whether you need to claim them in-game.",
-      "paragraphs": [
-        "If you came looking for a code to enter, the official Roblox listing does not provide one or describe a code redemption menu. Check the official experience page for any future code announcement before trying a code posted elsewhere."
+        "If you find the game through Roblox search instead, check the creator name as well as the title before you hit Play. If the creator doesn't match, use the direct link above."
       ],
       "table": {
         "caption": "Shred A Billion at a Glance",
@@ -70,23 +35,57 @@
         ],
         "rows": [
           [
-            "How Cash Collection, Shredding, and the Gold Heist Work",
-            "When you enter the bank vault in Shred A Billion, use your starting hand vac to pick up bills, then take the cash to the shredder."
+            "Where to Play on Roblox and Who Made It",
+            "Official Shred A Billion game page: https://www.roblox.com/games/125332227026284"
           ],
           [
-            "What the Official Listing Says About Vacuums and Progression",
-            "The hand vac is your starting tool in Shred A Billion."
+            "Start With the Hand Vac and Shred Cash for Coins",
+            "Your first tool is a small hand vac."
           ],
           [
-            "Nighttime Threats and Playing With Friends",
-            "The official game description confirms two useful limits for planning a session: monsters appear at night, and the experience advertises play with up…"
+            "Watch for Monsters After Dark",
+            "Monsters appear at night in Shred A Billion."
           ],
           [
-            "Group Bonus and Promo-Code Status",
-            "The 100 free coins advertised for Shred A Billion are a Roblox group reward, not a promo code."
+            "Bring Friends and Find the Roblox Group Bonus",
+            "The Shred A Billion listing on Roblox advertises 100 coins for joining the group."
           ]
         ]
-      }
+      },
+      "bullets": [
+        "Platform: Roblox",
+        "Game title: Shred A Billion",
+        "Creator: Blue Chip studios"
+      ]
+    },
+    {
+      "id": "start-with-the-hand-vac-and-shred-cash-for-coins",
+      "heading": "Start With the Hand Vac and Shred Cash for Coins",
+      "intro": "Your first tool is a small hand vac. Use it to collect bills in the bank vault, then take the cash to the shredder. The bills are what you gather; coins are what you earn when you shred the collected cash. Keeping those two stages distinct makes the first progression goal clear: collect bundles, process them, and use the resulting coins to work toward better equipment.",
+      "paragraphs": [
+        "The listed equipment progression includes backpack vacs, the Mega Vac, and the Black Hole. These are goals to work toward as you shred more cash, but their exact prices and unlock requirements are not established here. Check the in-game equipment options as you earn coins so you can see which purchase is currently available rather than planning around an assumed cost.",
+        "For an early run, focus on moving cash through the full sequence: collect bills with the hand vac, bring them to the shredder, and confirm that shredding has added coins before choosing an upgrade. Collecting a large amount of cash does not itself mean those bundles have already become spendable coins; they need to be shredded first. Once you can access a stronger vacuum, the same collect-and-shred sequence remains the basis of your progress. The beginner guide covers first steps, while the tools guide focuses on equipment."
+      ]
+    },
+    {
+      "id": "watch-for-monsters-after-dark",
+      "heading": "Watch for Monsters After Dark",
+      "intro": "Monsters appear at night in Shred A Billion. Before you head farther in, decide what you want to finish on this trip. If you’re close to completing what you came to do, you can wrap it up and leave the next stretch of digging for another trip.",
+      "paragraphs": [
+        "If you’d rather keep digging after dark, pick a stopping point before you go farther, such as the end of the section you’re already working on. That gives you a clear point to turn back instead of letting one more stretch turn into a much longer trip."
+      ]
+    },
+    {
+      "id": "bring-friends-and-find-the-roblox-group-bonus",
+      "heading": "Bring Friends and Find the Roblox Group Bonus",
+      "intro": "The Shred A Billion listing on Roblox advertises 100 coins for joining the group. If you want the bonus, join with the Roblox account you use to play, then check your in-game coin balance before counting on those coins for an upgrade.",
+      "paragraphs": [
+        "The Shred A Billion listing on Roblox advertises 100 coins for joining the group. If you want the bonus, join with the Roblox account you use to play, then check your in-game coin balance before counting on those coins for an upgrade."
+      ],
+      "bullets": [
+        "Count yourself when planning a co-op session. You can bring up to three friends, for four players total.",
+        "Look for the group offer in the game description on Roblox. The advertised reward is tied to joining that group."
+      ]
     },
     {
       "id": "guide-directory-guides",
@@ -97,62 +96,62 @@
         {
           "label": "Shred A Billion Beginner Guide",
           "slug": "beginner-guide",
-          "description": "Master the basics with our Shred A Billion beginner guide on Roblox. Learn the core gameplay loop, first 15-minute progression steps, controls table, and tips."
+          "description": "Learn the Shred A Billion controls and core loop, follow a first-session checklist, and compare early upgrades, co-op, saves, and demo limits across versions."
         },
         {
-          "label": "Shred A Billion Co OP",
+          "label": "Shred A Billion Roblox Co-op",
           "slug": "co-op",
-          "description": "Co OP in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
-        },
-        {
-          "label": "Shred A Billion Demo",
-          "slug": "demo",
-          "description": "Get more out of demo in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Includes full tables and tips."
-        },
-        {
-          "label": "Shred A Billion Multiplayer",
-          "slug": "multiplayer",
-          "description": "Shred A Billion Multiplayer explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          "description": "Looking for Shred A Billion Roblox co-op? Check the platform first, then find Steam demo party size, chat, shared saves, hosting steps, and tips for teams."
         },
         {
           "label": "Shred A Billion Tools",
           "slug": "tool",
-          "description": "Tool in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
+          "description": "Compare Shred A Billion tools from hands and bucket to shovel, vacuum, and drones. Check demo access, unlock order, co-op roles, and the PC setup on Steam."
         },
         {
           "label": "Shred A Billion Upgrades",
           "slug": "upgrade",
-          "description": "Get more out of upgrade in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players."
-        },
-        {
-          "label": "Shred A Billion Roblox Endings",
-          "slug": "endings",
-          "description": "Shred A Billion endings guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players."
+          "description": "Plan Shred A Billion upgrades by comparing tool improvements, the skill tree, boosts, relics, and gold perks. Use demo limits to decide what to buy next."
         },
         {
           "label": "Shred A Billion Automation",
           "slug": "automation",
-          "description": "Shred A Billion Automation explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          "description": "See what Shred A Billion automation is meant to handle, what the demo lets you test, and which tools and upgrades to prioritize before you can unlock drones."
         },
         {
           "label": "Shred A Billion Badges",
           "slug": "badges",
-          "description": "Shred A Billion badges guide on Roblox: where to find each one, what you need first, step-by-step strategy and the rewards you get. Updated for Roblox players."
+          "description": "Looking for Shred A Billion badges? Check what Steam confirms about achievements, what the demo can track, and how to prepare without an unverified list."
         },
         {
           "label": "Shred A Billion Boosts",
           "slug": "boost",
-          "description": "Boost in Shred A Billion on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips."
+          "description": "Learn how Shred A Billion boosts fit with tools, relics, and gold perks. See what public notes say about Flight, demo testing, and full-game availability."
         },
         {
           "label": "Shred A Billion Bucket",
           "slug": "bucket",
-          "description": "Get more out of bucket in Shred A Billion on Roblox: the mechanics that matter, a simple strategy to follow and the traps to avoid. Updated for Roblox players."
+          "description": "Check the Shred A Billion bucket unlock cost, see how scooping changes your route, and decide when to buy capacity, scoop speed, or shredder upgrades first."
         },
         {
           "label": "Shred A Billion Drones",
           "slug": "drone",
-          "description": "Shred A Billion Drones explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips."
+          "description": "Find out what Shred A Billion drones are meant to automate, how to prepare with tools, and what to verify before buying drone upgrades or planning co-op roles."
+        },
+        {
+          "label": "Shred A Billion Gold Perks",
+          "slug": "gold-perk",
+          "description": "Plan Shred A Billion gold perks around tools, drones, and the Golden Reserve. Check what Steam confirms, what the demo covers, and how to spend in co-op."
+        },
+        {
+          "label": "Shred A Billion Roblox Golden Key",
+          "slug": "golden-key",
+          "description": "Looking for the Shred A Billion Roblox golden key? Check the platform, then see where the Steam game points you to dig and what opens the Golden Reserve."
+        },
+        {
+          "label": "Shred A Billion Golden Reserve",
+          "slug": "golden-reserve",
+          "description": "Find out how to prepare for the Shred A Billion Golden Reserve, what the hidden key has to do with the vault door, and what the demo can show before launch."
         },
         {
           "label": "All Shred A Billion Guides",
@@ -164,23 +163,23 @@
   ],
   "faq": [
     {
-      "question": "How do you play Shred A Billion on Roblox?",
-      "answer": "The official description lays out a simple sequence: collect cash from the bank vault with a vacuum, put the cash into the shredder to earn coins, and use progression to improve your equipment. Digging can reveal a golden key that opens the gold vault, where gold is loaded onto carts and taken to a hideout."
+      "question": "How do I move gold to the hideout?",
+      "answer": "Once the gold vault is open, load the gold onto a cart and ride it back to the hideout. The destination is different from the one you used for bills: ordinary cash goes to the shredder, while the gold goes to the hideout."
     },
     {
-      "question": "Does Shred A Billion have working promo codes or free rewards?",
-      "answer": "The supplied official listing advertises 100 free coins for joining the game’s group. That is a group-join offer, not evidence of a redeemable code, and the available information does not confirm any working promo codes. Check the experience’s official listing for current offer details before relying on a reward."
+      "question": "What does the heist leaderboard track?",
+      "answer": "It ranks heists by how quickly they’re completed. If you want to see how your run compares with others, look at the time for the gold heist rather than the coins you earned shredding cash earlier. The leaderboard is for the fastest heists, not for money collected."
     },
     {
-      "question": "Which vacuums are named in the Roblox listing?",
-      "answer": "The listing names a hand vac as the starting equipment, followed by backpack vacs, the Mega Vac, and the Black Hole in the progression. It does not provide prices, capacity figures, or precise unlock requirements, so those details should not be inferred from the equipment names alone."
+      "question": "How many friends can I play with?",
+      "answer": "You can bring three friends, which makes four players including you. If you’re organizing a session, count the three as guests, not as the total group size. If four friends want to join you, you’ll need to split the group or take turns."
     }
   ],
   "screenshots": [],
   "sources": [
     {
       "url": "https://www.roblox.com/games/125332227026284",
-      "title": "Shred A Billion (🦀MR Krabs🦀)",
+      "title": "Shred A Billion 🦀",
       "sourceType": "official"
     },
     {

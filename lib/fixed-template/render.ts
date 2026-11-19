@@ -226,6 +226,15 @@ export function scopeTemplateCss(css:string,scope:string):string{
     const brace=source.indexOf("{",index);if(brace<0)break;const selector=source.slice(index,brace).trim(),close=source.indexOf("}",brace);if(close<0)break;out+=scopeSelectorList(selector,scope)+"{"+source.slice(brace+1,close)+"}";index=close+1;
   }return out;
 }
+/**
+ * A template's own demo CSS may style generic class names that are also Tailwind utilities on our page content
+ * (portal / editorial: ".grid" = 3 equal columns, which split the homepage banner into three columns; glass: ".block").
+ * Only the template header is rendered, and no header uses these names, so they are renamed away from page content.
+ */
+const TEMPLATE_UTILITY_CLASS=/\.(grid|block|flex|hidden|container)(?![\w-])/g;
+export function neutralizeUtilityClasses(css:string):string{
+  return css.replace(TEMPLATE_UTILITY_CLASS,(_m,name:string)=>".tpl-"+name);
+}
 export function scopedTemplateCss(skin:string,accentColorId?:string|null):string{
   
   const {pack,html:home}=templateSource(skin,"home"),{html:inner}=templateSource(skin,"inner"),paint=resolveAccent(pack.skin,accentColorId);
@@ -264,7 +273,7 @@ export function scopedTemplateCss(skin:string,accentColorId?:string|null):string
     // Narrow screens: the bar holding the nav grows with the wrapped links instead of clipping them (fixed 60~72px headers).
     `@media(max-width:860px){*:has(>.site-nav),*:has(>.nav){height:auto!important;min-height:0!important;flex-wrap:wrap!important;row-gap:4px!important;padding-top:8px!important;padding-bottom:8px!important}.site-nav .nav-link,.nav .nav-link{padding-top:7px!important;padding-bottom:7px!important}.site-nav>.nav-link,.nav>.nav-link,.nav-group>.nav-group-head{display:inline-block!important}}`,
   ].join("\n");
-  const raw=extractStyle(home)+"\n"+extractStyle(inner)+"\n"+accentOverrideCss(pack.skin,paint)+"\n"+surfaceGuard;
+  const raw=neutralizeUtilityClasses(extractStyle(home)+"\n"+extractStyle(inner))+"\n"+accentOverrideCss(pack.skin,paint)+"\n"+surfaceGuard;
   return scopeTemplateCss(raw,`body[data-fixed-template="${pack.skin}"]`);
 }
 export function renderFixedDocument(input:FixedTemplateInput):{html:string;body:string;chrome:string;rest:string}{const html=renderFixedTemplate(input),body=extractBody(html),parts=splitFixedChrome(body,templatePack(input.skin).skin);return{html,body,...parts}}

@@ -2,7 +2,7 @@
   "readyForLaunch": true,
   "siteName": "Shred A Billion Guide",
   "shortName": "Shred A Billion",
-  "description": "Explore our complete Shred A Billion Roblox wiki and guide featuring active redeem codes, beginner progression steps, core mechanics tables, and winning tips.",
+  "description": "Find the official Shred A Billion Steam listing, tell it apart from the browser clicker, and check how to start the demo, play with friends, and plan upgrades.",
   "language": "en",
   "locale": "en_US",
   "authorName": "Editorial Team",
@@ -62,6 +62,10 @@
     "titleTemplate": "%s | Shred A Billion Guide"
   },
   "navigation": [
+    "beginner-guide",
+    "co-op",
+    "tool",
+    "upgrade",
     "guides"
   ]
 }

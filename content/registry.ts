@@ -22,9 +22,11 @@ export const visibleCorePages = (() => {
  * Header navigation entries. A hub carries its group pages as children (rendered as a dropdown),
  * so every content page has a link in the header of every page, while the bar itself stays short.
  */
+const topLevelSlugs = new Set(visibleCorePages.map((page) => page.slug));
 export const navMenu: InternalLink[] = visibleCorePages.map((page) => {
+  // Pages already on the bar (promoted when a site has very few groups) are not repeated in their hub's dropdown.
   const children = page.pageType === "hub"
-    ? enabledCorePages.filter((child) => child.parentSlug === page.slug).map((child) => ({ label: child.navLabel, slug: child.slug }))
+    ? enabledCorePages.filter((child) => child.parentSlug === page.slug && !topLevelSlugs.has(child.slug)).map((child) => ({ label: child.navLabel, slug: child.slug }))
     : [];
   return children.length ? { label: page.navLabel, slug: page.slug, children } : { label: page.navLabel, slug: page.slug };
 });
