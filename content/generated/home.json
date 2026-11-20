@@ -8,7 +8,7 @@
   "hero": {
     "eyebrow": "Shred A Billion Wiki & Guide",
     "heading": "Shred A Billion Roblox Wiki: Official Game Link and Starter Guides",
-    "lead": "Play [Shred A Billion on Roblox](https://www.roblox.com/games/125332227026284), the bank-vault experience by Blue Chip studios. Start with one trip from the bills to the shredder so you can see how you earn your first coins. If you already know the basics, jump to the sections on vacuum upgrades, the golden key, or the cart ride to the hideout.",
+    "lead": "Play Shred A Billion on Roblox through the official experience page for Blue Chip studios. Before launching, check that the creator line reads Blue Chip studios so you know you have the right listing. Your first goal is to use the hand vac to collect bills, then turn the bundles into coins at the shredder. Later, the golden key opens the gold vault and starts a separate heist objective. The steps and milestone table below show where to start, what to watch for at night, and what to try next. This site covers the Roblox experience Shred A Billion by Blue Chip studios, not the PC/Steam game with the same name.",
     "supportingText": "",
     "primaryLink": {
       "label": "Open Beginner Guide",
@@ -21,12 +21,11 @@
   },
   "sections": [
     {
-      "id": "official-roblox-link-look-for-blue-chip-studios",
-      "heading": "Official Roblox Link: Look for Blue Chip studios",
-      "intro": "Open the [official Shred A Billion listing](https://www.roblox.com/games/125332227026284) to play. The experience ID is `125332227026284`, the number immediately after `/games/` in the Roblox address. The creator credit on the experience page reads Blue Chip studios.",
+      "id": "open-the-official-roblox-listing-by-blue-chip-studios",
+      "heading": "Open the Official Roblox Listing by Blue Chip studios",
+      "intro": "The official Shred A Billion listing is at https://www.roblox.com/games/125332227026284. If you arrived through Roblox search or a link someone sent you, check the address and creator credit before selecting Play. The title alone isn't enough to identify the right listing.",
       "paragraphs": [
-        "If a search result or a shared link takes you to a Roblox page with a similar title, compare the experience ID before you press Play. You don't have to match every word in the address: a link can include the game name after the number. The important checks are the Roblox domain, the experience ID, and the creator credit on the destination page.",
-        "For a group outing, send the direct listing in your chat before everyone opens the game. That gives all of you the same page to start from and avoids having each person pick a result by title."
+        "The official Shred A Billion listing is at https://www.roblox.com/games/125332227026284. If you arrived through Roblox search or a link someone sent you, check the address and creator credit before selecting Play. The title alone isn't enough to identify the right listing."
       ],
       "table": {
         "caption": "Shred A Billion at a Glance",
@@ -36,111 +35,84 @@
         ],
         "rows": [
           [
-            "Official Roblox Link: Look for Blue Chip studios",
-            "Open the [official Shred A Billion listing](https://www.roblox.com/games/125332227026284) to play."
+            "Open the Official Roblox Listing by Blue Chip studios",
+            "The official Shred A Billion listing is at https://www.roblox.com/games/125332227026284."
           ],
           [
-            "Start With the Hand Vac and Shred Bills for Coins",
-            "Your first job in the bank vault is to pick up bills with the starter hand vac."
+            "Turn Your First Load of Bills Into Coins",
+            "For your first run in Shred A Billion, take the starter hand vac into the bank vault and pick up a small load of bills."
           ],
           [
-            "Monsters Come Out at Night",
-            "Night brings monsters, so a collection goal that makes sense earlier in the outing may not be worth extending as it gets late."
+            "Watch for Monsters After Dark",
+            "Monsters appear at night in Shred A Billion."
           ],
           [
-            "Which Vacuum Should You Work Toward?",
-            "The starting tool is a hand vac."
+            "Find the Golden Key to Start the Gold Vault Heist",
+            "Dig to find the golden key, then use it to open the gold vault."
           ],
           [
-            "From Digging to the Gold Vault",
-            "The golden key is found by digging deeper, and it's what opens the gold vault."
-          ],
-          [
-            "Get the Gold to the Hideout",
-            "Once the gold vault opens, the job changes from finding a way in to getting the gold out."
+            "Play With Friends or Check the Roblox Group Offer",
+            "You can play Shred A Billion with up to three friends."
           ]
         ]
-      }
+      },
+      "bullets": [
+        "Match the address. Look for www.roblox.com in the browser and 125332227026284 immediately after /games/ in the address.",
+        "Match the listing. The experience title should read Shred A Billion, and the creator credit should read Blue Chip studios.",
+        "Launch from the matching page. If the address or creator doesn't match, return to the direct link above rather than choosing another result based on its name or thumbnail."
+      ]
     },
     {
-      "id": "start-with-the-hand-vac-and-shred-bills-for-coins",
-      "heading": "Start With the Hand Vac and Shred Bills for Coins",
-      "intro": "Your first job in the bank vault is to pick up bills with the starter hand vac. The bills you collect are not coins yet. Bring the cash to the shredder: each bundle you feed into it earns coins, which you can put toward better vacuums. That distinction matters if you've picked up plenty of bills but still haven't earned what you need for an upgrade.",
+      "id": "turn-your-first-load-of-bills-into-coins",
+      "heading": "Turn Your First Load of Bills Into Coins",
+      "intro": "For your first run in Shred A Billion, take the starter hand vac into the bank vault and pick up a small load of bills. Bring the cash bundles to the shredder and feed them in. You earn coins for each bundle you shred, not just for picking up the bills.",
       "paragraphs": [
-        "For your first trip, take a small batch to the shredder instead of trying to clear every bill you see. A short trip gives you a chance to find your way from collection to shredding while your goal is still simple. A useful first milestone is seeing a batch through to coins, even if those coins aren't enough for the tool you want.",
-        "On a second trip, make the return part of your plan before you collect more. If you spent most of the first outing figuring out where to take the bills, repeat a route you recognize rather than extending the outing in a new direction. Once you're comfortable doing both parts, use the [beginner guide](/beginner-guide) if you need help deciding what to try next."
+        "Make the shredder your first checkpoint rather than trying to clear the vault in one trip. Once you've turned in a load, head back for more bills. Repeating those trips earns the coins you can put toward vacuum upgrades.",
+        "The milestones below separate the tool you start with from the ones you can work toward. The later names aren't a required purchase order, so check the in-game requirements for the tool you want before spending your coins."
+      ],
+      "steps": [
+        {
+          "heading": "Hand vac",
+          "description": "Your starting tool for collecting bills on your first run."
+        },
+        {
+          "heading": "Backpack vacs",
+          "description": "A group of vacuum upgrades you can work toward after the hand vac."
+        },
+        {
+          "heading": "Mega Vac and Black Hole",
+          "description": "Two named milestones beyond the starter tool."
+        }
       ],
       "bullets": [
-        "Take the hand vac into the bank vault and pick up bills.",
-        "Bring the cash bundles to the shredder to turn them into coins.",
-        "Put the coins toward a better vacuum, or make another trip if you need more."
+        "Hand vac — Your starting tool for collecting bills on your first run.",
+        "Backpack vacs — A group of vacuum upgrades you can work toward after the hand vac.",
+        "Mega Vac and Black Hole — Two named milestones beyond the starter tool."
       ]
     },
     {
-      "id": "monsters-come-out-at-night",
-      "heading": "Monsters Come Out at Night",
-      "intro": "Night brings monsters, so a collection goal that makes sense earlier in the outing may not be worth extending as it gets late. If you're still learning where to go, pick a stopping point you can recognize without estimating how much more cash is nearby. Finishing the trip you started is a different decision from heading out for another one.",
+      "id": "watch-for-monsters-after-dark",
+      "heading": "Watch for Monsters After Dark",
+      "intro": "Monsters appear at night in Shred A Billion. If you’re still getting used to collecting bills, aim for a short first run rather than planning to stay out after dark.",
       "paragraphs": [
-        "For example, say you're deciding whether to follow more bills farther in or head back after reaching your original goal. If you're still getting your bearings, heading back is the simpler choice. If you choose to go farther, make that a deliberate decision to spend more of the outing collecting, especially when night is approaching.",
-        "The same idea applies when your goal is to explore rather than earn coins. Pick one thing you want to learn, such as where the path you're following leads, instead of treating every outing as a push to get as far as possible. That gives you a clear point at which to decide whether to keep going."
+        "Give yourself a simple stopping point: pick up a small batch of bills, then head back instead of looking for one more pile. You don’t need to collect every bill you see on your first outing."
       ]
     },
     {
-      "id": "which-vacuum-should-you-work-toward",
-      "heading": "Which Vacuum Should You Work Toward?",
-      "intro": "The starting tool is a hand vac. The game also names backpack vacs, the Mega Vac, and the Black Hole as tools you can work toward. Use those names to recognize the equipment you're looking at. The names alone don't tell you how much to save or whether a particular purchase is right for the next thing you want to do.",
+      "id": "find-the-golden-key-to-start-the-gold-vault-heist",
+      "heading": "Find the Golden Key to Start the Gold Vault Heist",
+      "intro": "Dig to find the golden key, then use it to open the gold vault.",
       "paragraphs": [
-        "If you're deciding whether to spend or save, start with the upgrade you can actually see in the game. Compare its displayed cost with the coins you have and read what it offers before deciding. For a first upgrade, it helps to choose a specific next purchase instead of saving indefinitely for the most recognizable name on the list.",
-        "Use the [vacuum guide](/tool) when your question is about the equipment itself, and the [upgrade guide](/upgrade) when you're deciding what to work toward next. Keep the equipment decision separate from the goal of getting the gold vault open: a vacuum is the tool you collect with, while the gold vault has its own requirement."
+        "Once the vault is open, load the gold onto carts and ride with it to the hideout. That cart trip is the next objective after opening the vault, and it takes you to a different destination from your earlier cash runs.",
+        "The heist leaderboard ranks the fastest runs. On your first attempt, focus on getting the gold to the hideout, then check how your time compares with the leaderboard entries."
       ]
     },
     {
-      "id": "from-digging-to-the-gold-vault",
-      "heading": "From Digging to the Gold Vault",
-      "intro": "The golden key is found by digging deeper, and it's what opens the gold vault. The vault you visit for bills and the gold vault serve different purposes. You don't need to find the key to get started with bills, and opening the gold vault is a milestone of its own rather than another name for earning a vacuum upgrade.",
+      "id": "play-with-friends-or-check-the-roblox-group-offer",
+      "heading": "Play With Friends or Check the Roblox Group Offer",
+      "intro": "You can play Shred A Billion with up to three friends. Count yourself when planning your first session: that’s room for four players, including you.",
       "paragraphs": [
-        "When you switch from earning coins to looking for the key, change what counts as progress. On a coin outing, you can judge your progress by what you bring back to the shredder. On a search outing, pay attention to where you've already dug and where you want to continue. Giving yourself one objective makes it easier to decide whether to keep digging or go back to earning coins.",
-        "Finding the key gets you to the next stage, not the end of the heist. Plan for another task after opening the gold vault: getting the gold onto carts for the trip out."
-      ]
-    },
-    {
-      "id": "get-the-gold-to-the-hideout",
-      "heading": "Get the Gold to the Hideout",
-      "intro": "Once the gold vault opens, the job changes from finding a way in to getting the gold out. Load the gold onto the carts, then ride out to the hideout. Think of opening the vault, loading the gold, and making the ride as separate milestones. That way, if you stop partway through, you can tell which part you still need to learn on your next attempt.",
-      "paragraphs": [
-        "For a first heist, aim to finish the trip before worrying about how fast it looks. Pay attention to the transition after the vault opens: finding gold and getting it onto the carts are different steps. If you're playing with friends, it's also a good moment to make sure everyone knows the destination before you get busy with the carts.",
-        "If the trip feels confusing, focus on the next action in the sequence rather than trying to remember the whole run at once. After the vault is open, think about loading; after loading, think about the ride. Save the comparison with other runs for when you've seen where the trip ends."
-      ]
-    },
-    {
-      "id": "use-the-leaderboard-after-a-complete-heist",
-      "heading": "Use the Leaderboard After a Complete Heist",
-      "intro": "The leaderboard ranks the fastest heists. It gives you something to compare once you've made a run, but it won't tell you what to practice by itself. On your first finish, pick the part that caused the most hesitation. Maybe you knew what to do with the gold but paused around the carts, or maybe the whole sequence was new. Those are different things to work on.",
-      "paragraphs": [
-        "For a repeat attempt, change one thing you can judge for yourself. For instance, agree before the run that everyone should know the next step when you reach the carts, then see whether your group has fewer pauses there. That gives you a useful comparison even if your run doesn't put you near the top of the board.",
-        "When you share a result with friends, distinguish a personal best from a leaderboard position. A quicker run than your own last attempt is progress even when the fastest listed runs are still well ahead."
-      ]
-    },
-    {
-      "id": "pick-one-goal-before-playing-with-friends",
-      "heading": "Pick One Goal Before Playing With Friends",
-      "intro": "A good first group session starts with an agreement about what everyone wants out of it. If some people are brand new, teach the starter trip before asking them to keep up on a gold run. If everyone knows the basics, agree on whether you're exploring for the key, trying to finish a heist, or attempting to beat a previous time.",
-      "paragraphs": [
-        "Give that goal a clear endpoint. For a learning session, you might call it after everyone has tried their first trip. For a heist session, you might make reaching the hideout the goal and leave the time comparison for later. If you change objectives halfway through, say so; otherwise one person can be ready to move on while another is still trying to finish the original task.",
-        "Use the [co-op guide](/co-op) when you're setting up a session with friends and want help choosing what to do together."
-      ]
-    },
-    {
-      "id": "find-the-right-page-when-you-return",
-      "heading": "Find the Right Page When You Return",
-      "intro": "Start with the [updates page](/updates) if you're returning after a break and want to know what has changed. If you're already in the game and have a specific question, go straight to the page for that topic instead of reading through the starter route again.",
-      "paragraphs": [
-        "Start with the [updates page](/updates) if you're returning after a break and want to know what has changed. If you're already in the game and have a specific question, go straight to the page for that topic instead of reading through the starter route again."
-      ],
-      "bullets": [
-        "[Automation](/automation): Start here if you're specifically looking for information about automation rather than choosing a vacuum.",
-        "[Badges](/badges): Use this page when your goal is badge-related rather than finishing a faster run.",
-        "[Boosts](/boost): Go here for boost questions. The group-join coin offer is a separate topic covered below."
+        "The Roblox listing separately advertises 100 coins for joining the group. If you’re interested in the offer, check the official game description for the group invitation rather than looking for a redemption code. The listing doesn’t say when or how the coins are delivered."
       ]
     },
     {
@@ -227,16 +199,16 @@
   ],
   "faq": [
     {
-      "question": "Who made Shred A Billion on Roblox?",
-      "answer": "Blue Chip studios is the creator credited on Roblox. On a shared link, read the byline on the experience page itself; the text somebody puts in a message or search result is not the creator credit."
+      "question": "What is the official Roblox link for Shred A Billion?",
+      "answer": "Use the official Roblox experience page. If you find the game through search instead, compare the address with this direct link rather than relying on the title alone. Blue Chip studios is the creator credit to look for before you open the experience."
     },
     {
-      "question": "Can I play with friends in Shred A Billion?",
-      "answer": "You can bring up to three friends, which makes four players including you. When you're organizing a session, count yourself as one of the four rather than treating the advertised number of friends as the total group size."
+      "question": "What should I focus on first in Shred A Billion?",
+      "answer": "Aim to earn your first coins with the hand vac before worrying about which vacuum to buy next. Take a small load all the way to the shredder: picking up bills is only the collection step, while shredding the bundles is what earns you coins."
     },
     {
-      "question": "Is the advertised group reward a redeemable code?",
-      "answer": "The Roblox description offers 100 coins for joining the group. It describes a membership offer, not a code to type in. For that particular bonus, look for the group associated with the official experience instead of searching for a redemption phrase."
+      "question": "Can I join my friends in Shred A Billion?",
+      "answer": "You can play with up to three friends. If you're deciding who to invite, that makes four players including you, not three total. If you want a shared goal after getting started, the gold vault heist gives you a later objective with a leaderboard for the fastest runs."
     }
   ],
   "screenshots": [],
@@ -245,11 +217,6 @@
       "url": "https://www.roblox.com/games/125332227026284",
       "title": "Shred A Billion 🦀",
       "sourceType": "official"
-    },
-    {
-      "url": "https://shredabillion.onemorelawn.net/",
-      "title": "Shred A Billion Guide: Release Date, Demo, Upgrades, ...",
-      "sourceType": "guide"
     },
     {
       "url": "https://www.roblox.com/games/125332227026284",
