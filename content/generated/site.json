@@ -2,7 +2,7 @@
   "readyForLaunch": true,
   "siteName": "Shred A Billion Guide",
   "shortName": "Shred A Billion",
-  "description": "Find the official Shred A Billion Steam listing, tell it apart from the browser clicker, and check how to start the demo, play with friends, and plan upgrades.",
+  "description": "Find the official Shred A Billion Roblox experience by Blue Chip studios, learn how to get started, and find guides for your next step as you play the game.",
   "language": "en",
   "locale": "en_US",
   "authorName": "Editorial Team",
@@ -65,7 +65,7 @@
     "beginner-guide",
     "co-op",
     "tool",
-    "upgrade",
-    "guides"
+    "guides",
+    "updates"
   ]
 }

@@ -550,3 +550,8 @@ html[data-skin="horror"] .skin-article-hero { border: 0; min-height: 28vh; }
   .site-nav-group-head::after { display: none; }
   .site-nav-menu { display: flex; position: static; min-width: 0; max-height: none; padding: 0 0 0 .9rem; border: 0; box-shadow: none; background: transparent; }
 }
+
+/* Long unbroken strings in body text (game URLs such as https://www.roblox.com/games/…) must wrap,
+   otherwise phones widen the whole page (hyper-realistic-ragdoll: 402px on a 375px screen). */
+#main-content p, #main-content li, #main-content td, #main-content th,
+#main-content dd, #main-content figcaption, #main-content blockquote { overflow-wrap: anywhere; }

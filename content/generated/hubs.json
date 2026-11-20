@@ -5,13 +5,13 @@
     "pageType": "hub",
     "navLabel": "Guides",
     "title": "Shred A Billion Guides",
-    "description": "Every Shred A Billion guide on this site in one place: Shred A Billion Beginner Guide, Shred A Billion Roblox Co-op, Shred A Billion Tools, Shred A Billion…",
+    "description": "Every Shred A Billion guide on this site in one place: Shred A Billion Beginner Guide, Shred A Billion Co-op, Shred A Billion Tools, Shred A Billion Upgrades…",
     "navVisible": true,
     "parentSlug": "",
     "hero": {
       "eyebrow": "Index",
       "heading": "Shred A Billion Guides",
-      "lead": "All 12 Shred A Billion guides pages, grouped in one list. Each link opens a dedicated page."
+      "lead": "All 11 Shred A Billion guides pages, grouped in one list. Each link opens a dedicated page."
     },
     "sections": [
       {
@@ -22,62 +22,57 @@
           {
             "label": "Shred A Billion Beginner Guide",
             "slug": "beginner-guide",
-            "description": "Learn the Shred A Billion controls and core loop, follow a first-session checklist, and compare early upgrades, co-op, saves, and demo limits across versions."
+            "description": "Learn how to play Shred A Billion on Roblox with a first-session checklist, a guide to in-game controls and menus, and tips for choosing your first upgrade."
           },
           {
-            "label": "Shred A Billion Roblox Co-op",
+            "label": "Shred A Billion Co-op",
             "slug": "co-op",
-            "description": "Looking for Shred A Billion Roblox co-op? Check the platform first, then find Steam demo party size, chat, shared saves, hosting steps, and tips for teams."
+            "description": "Check whether Shred A Billion supports co-op on Roblox, how to join a friend, and what to verify about player limits, communication, and shared progress."
           },
           {
             "label": "Shred A Billion Tools",
             "slug": "tool",
-            "description": "Compare Shred A Billion tools from hands and bucket to shovel, vacuum, and drones. Check demo access, unlock order, co-op roles, and the PC setup on Steam."
+            "description": "Look up confirmed Shred A Billion tools on Roblox, learn where to check unlock requirements, and compare your options before choosing what to use or buy next."
           },
           {
             "label": "Shred A Billion Upgrades",
             "slug": "upgrade",
-            "description": "Plan Shred A Billion upgrades by comparing tool improvements, the skill tree, boosts, relics, and gold perks. Use demo limits to decide what to buy next."
+            "description": "Compare verified Shred A Billion upgrades on Roblox, learn where to check costs and requirements, and decide what to buy based on what slows you down now."
           },
           {
             "label": "Shred A Billion Automation",
             "slug": "automation",
-            "description": "See what Shred A Billion automation is meant to handle, what the demo lets you test, and which tools and upgrades to prioritize before you can unlock drones."
+            "description": "Check whether Shred A Billion on Roblox offers in-game automation, what it can handle if available, and where to verify unlocks, limits, and idle behavior."
           },
           {
             "label": "Shred A Billion Badges",
             "slug": "badges",
-            "description": "Looking for Shred A Billion badges? Check what Steam confirms about achievements, what the demo can track, and how to prepare without an unverified list."
+            "description": "Check the official Roblox badge list for Shred A Billion, see which badge requirements are confirmed, and learn what to do if an earned badge is missing."
           },
           {
             "label": "Shred A Billion Boosts",
             "slug": "boost",
-            "description": "Learn how Shred A Billion boosts fit with tools, relics, and gold perks. See what public notes say about Flight, demo testing, and full-game availability."
+            "description": "See which boosts are confirmed for Shred A Billion on Roblox, where to check their listed effects, and what to verify before activating or combining them."
           },
           {
             "label": "Shred A Billion Bucket",
             "slug": "bucket",
-            "description": "Check the Shred A Billion bucket unlock cost, see how scooping changes your route, and decide when to buy capacity, scoop speed, or shredder upgrades first."
+            "description": "Check whether the bucket is available in Shred A Billion on Roblox, where to verify any unlock requirements, and what to do if you cannot find or use it."
           },
           {
             "label": "Shred A Billion Drones",
             "slug": "drone",
-            "description": "Find out what Shred A Billion drones are meant to automate, how to prepare with tools, and what to verify before buying drone upgrades or planning co-op roles."
+            "description": "Check whether drones are available in the Roblox experience Shred A Billion, where to look for unlock requirements, and how to verify what a drone can do."
           },
           {
             "label": "Shred A Billion Gold Perks",
             "slug": "gold-perk",
-            "description": "Plan Shred A Billion gold perks around tools, drones, and the Golden Reserve. Check what Steam confirms, what the demo covers, and how to spend in co-op."
+            "description": "Check whether gold perks exist in Shred A Billion on Roblox, where to look for any unlock requirements, and what to verify before choosing or buying a perk."
           },
           {
             "label": "Shred A Billion Roblox Golden Key",
             "slug": "golden-key",
-            "description": "Looking for the Shred A Billion Roblox golden key? Check the platform, then see where the Steam game points you to dig and what opens the Golden Reserve."
-          },
-          {
-            "label": "Shred A Billion Golden Reserve",
-            "slug": "golden-reserve",
-            "description": "Find out how to prepare for the Shred A Billion Golden Reserve, what the hidden key has to do with the vault door, and what the demo can show before launch."
+            "description": "Check whether a golden key exists in Shred A Billion on Roblox, where to look for verified clues, and how to confirm what it opens before you start searching."
           }
         ]
       }
@@ -85,6 +80,6 @@
     "faq": [],
     "screenshots": [],
     "relatedSlugs": [],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   }
 ]
